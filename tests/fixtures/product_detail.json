@@ -1,0 +1,143 @@
+{
+  "id": "975c34c8d04740dda1e28cd51e28e283",
+  "name": "ΚΑΡΑΜΟΛΕΓΚΟΣ  Ψωμί Τοστ Ολικής Άλεσης 720g",
+  "brand": "ΚΑΡΑΜΟΛΕΓΚΟΣ",
+  "images": [],
+  "category": "Ψωμί τυποποιημένο",
+  "category_ids": [
+    "fb7311d1172f411dba075194a4120689",
+    "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+    "b2a17c2ad4235ea8574d602763721135"
+  ],
+  "subcategory": "Αρτοποιείο / Πρωινό",
+  "description": null,
+  "image_url": "https://api.posokanei.gov.gr/images/product/975c34c8d04740dda1e28cd51e28e283?v=69cbc85d72191242fc3b1ba1",
+  "has_image": true,
+  "updated_at": "2026-10-11T06:20:44.985000",
+  "image_version": "69cbc85d72191242fc3b1ba1",
+  "unit": "kg",
+  "unit_quantity": 0.72,
+  "private_label": false,
+  "price_drop": false,
+  "price_drop_percentage": null,
+  "price_drop_from": null,
+  "price_drop_to": null,
+  "price_drop_start": null,
+  "price_drop_end": null,
+  "price_drop_category": null,
+  "price_drop_title": null,
+  "price_drop_company": null,
+  "price_stats": {
+    "min_price": 1.36,
+    "max_price": 2.04,
+    "avg_price": 1.89,
+    "retailer_count": 8,
+    "min_unit_price": 1.89,
+    "last_computed": null
+  },
+  "retailers": [
+    "ab_vasilopoulos",
+    "galaxias",
+    "halkiadakis",
+    "masoutis",
+    "mymarket",
+    "sklavenitis",
+    "bazaar",
+    "synka"
+  ],
+  "retailer_prices": [
+    {
+      "retailer": "halkiadakis",
+      "retailer_display_name": "Χαλκιαδάκης",
+      "retailer_name": "ΚΑΡΑΜΟΛΕΓΚΟΣ  Ψωμί Τοστ Ολικής Άλεσης 720g",
+      "price": 1.36,
+      "price_normalized": 1.89,
+      "is_discount": false,
+      "discount_percentage": null,
+      "last_updated": "2026-10-11T00:00:00",
+      "country": "GR"
+    },
+    {
+      "retailer": "synka",
+      "retailer_display_name": "Synka",
+      "retailer_name": "ΚΑΡΑΜΟΛΕΓΚΟΣ  Ψωμί Τοστ Ολικής Άλεσης 720g",
+      "price": 1.95,
+      "price_normalized": 2.71,
+      "is_discount": false,
+      "discount_percentage": null,
+      "last_updated": "2026-10-11T00:00:00",
+      "country": "GR"
+    },
+    {
+      "retailer": "galaxias",
+      "retailer_display_name": "Γαλαξίας",
+      "retailer_name": "ΚΑΡΑΜΟΛΕΓΚΟΣ  Ψωμί Τοστ Ολικής Άλεσης 720g",
+      "price": 1.95,
+      "price_normalized": 2.71,
+      "is_discount": false,
+      "discount_percentage": null,
+      "last_updated": "2026-10-11T00:00:00",
+      "country": "GR"
+    },
+    {
+      "retailer": "bazaar",
+      "retailer_display_name": "Bazaar",
+      "retailer_name": "ΚΑΡΑΜΟΛΕΓΚΟΣ  Ψωμί Τοστ Ολικής Άλεσης 720g",
+      "price": 1.95,
+      "price_normalized": 2.71,
+      "is_discount": false,
+      "discount_percentage": null,
+      "last_updated": "2026-10-11T00:00:00",
+      "country": "GR"
+    },
+    {
+      "retailer": "masoutis",
+      "retailer_display_name": "Μασούτης",
+      "retailer_name": "ΚΑΡΑΜΟΛΕΓΚΟΣ  Ψωμί Τοστ Ολικής Άλεσης 720g",
+      "price": 1.95,
+      "price_normalized": 2.71,
+      "is_discount": false,
+      "discount_percentage": null,
+      "last_updated": "2026-10-11T00:00:00",
+      "country": "GR"
+    },
+    {
+      "retailer": "mymarket",
+      "retailer_display_name": "My Market",
+      "retailer_name": "ΚΑΡΑΜΟΛΕΓΚΟΣ  Ψωμί Τοστ Ολικής Άλεσης 720g",
+      "price": 1.95,
+      "price_normalized": 2.71,
+      "is_discount": false,
+      "discount_percentage": null,
+      "last_updated": "2026-10-11T00:00:00",
+      "country": "GR"
+    },
+    {
+      "retailer": "sklavenitis",
+      "retailer_display_name": "Σκλαβενίτης",
+      "retailer_name": "ΚΑΡΑΜΟΛΕΓΚΟΣ  Ψωμί Τοστ Ολικής Άλεσης 720g",
+      "price": 1.96,
+      "price_normalized": 2.72,
+      "is_discount": false,
+      "discount_percentage": null,
+      "last_updated": "2026-10-11T00:00:00",
+      "country": "GR"
+    },
+    {
+      "retailer": "ab_vasilopoulos",
+      "retailer_display_name": "ΑΒ Βασιλόπουλος",
+      "retailer_name": "ΚΑΡΑΜΟΛΕΓΚΟΣ  Ψωμί Τοστ Ολικής Άλεσης 720g",
+      "price": 2.04,
+      "price_normalized": 2.83,
+      "is_discount": false,
+      "discount_percentage": null,
+      "last_updated": "2026-10-11T00:00:00",
+      "country": "GR"
+    }
+  ],
+  "available_countries": [
+    "GR"
+  ],
+  "is_international": false,
+  "history": null
+}

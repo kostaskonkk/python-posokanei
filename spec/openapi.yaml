@@ -1,0 +1,792 @@
+openapi: 3.1.0
+info:
+  title: posokanei.gov.gr price API (unofficial description)
+  version: 0.1.0
+  summary: The JSON API behind the Greek government's supermarket price observatory.
+  description: |
+    Unofficial. The platform publishes no specification; this one is written by hand from
+    recorded responses (`tests/fixtures/`) and is not affiliated with posokanei.gov.gr or the
+    Greek Ministry of Development.
+
+    Search, barcode, competitors and stats were found by charistas/posokanei-mcp. Each has one
+    recorded response behind it here, so their schemas are thinner evidence than the others'.
+
+    Access (measured 2026-10-11). The API answers 403 with an HTML body when the `User-Agent`
+    is not a browser's, and also to some clients whatever their headers: Python's default TLS
+    handshake and curl over HTTP/2 were refused, curl over HTTP/1.1 and Python with OpenSSL's
+    default cipher list were served. The web app also sends `Origin` and `Referer` of
+    posokanei.gov.gr, `X-Platform: flutter-web` and `X-App-Version`; a request was served
+    without them. There are no cookies and no token.
+
+    Timestamps are ISO 8601 without an offset and are in UTC.
+  license:
+    name: MIT
+    identifier: MIT
+servers:
+  - url: https://api.posokanei.gov.gr
+tags:
+  - name: meta
+  - name: products
+
+paths:
+  /meta/retailers:
+    get:
+      operationId: listRetailers
+      tags: [meta]
+      summary: The retailers the platform tracks.
+      description: The web app sends `countries`, but `GR` and `all` gave the same 23 retailers of 11 countries.
+      parameters:
+        - $ref: '#/components/parameters/countries'
+      responses:
+        '200':
+          description: The retailers.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/RetailerList'
+
+  /meta/categories/tree:
+    get:
+      operationId: getCategoryTree
+      tags: [meta]
+      summary: The category tree.
+      parameters:
+        - name: include_counts
+          in: query
+          schema:
+            type: boolean
+        - name: include_hidden
+          in: query
+          schema:
+            type: boolean
+      responses:
+        '200':
+          description: The tree, root categories first.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/CategoryTree'
+
+  /meta/stats:
+    get:
+      operationId: getStats
+      tags: [meta]
+      summary: Platform statistics.
+      responses:
+        '200':
+          description: The statistics.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Stats'
+
+  /products:
+    get:
+      operationId: listProducts
+      tags: [products]
+      summary: One page of the products in a category.
+      parameters:
+        - name: category
+          in: query
+          description: A `category_id` from the category tree.
+          schema:
+            type: string
+        - $ref: '#/components/parameters/countries'
+        - $ref: '#/components/parameters/page'
+        - $ref: '#/components/parameters/page_size'
+        - $ref: '#/components/parameters/sort_by'
+        - $ref: '#/components/parameters/sort_order'
+        - name: is_international
+          in: query
+          schema:
+            type: boolean
+      responses:
+        '200':
+          description: The page.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ProductPage'
+
+  /products/search:
+    post:
+      operationId: searchProducts
+      tags: [products]
+      summary: Search products by title.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/ProductSearch'
+      responses:
+        '200':
+          description: The page of matches, shaped like a category page.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ProductPage'
+
+  /products/price-drop:
+    get:
+      operationId: listPriceDrops
+      tags: [products]
+      summary: Every active price drop.
+      description: |
+        The web app sends `page` and `page_size`; the server ignores them and answers with a
+        bare array of every active price drop (1,792 items on 2026-10-11).
+      responses:
+        '200':
+          description: The price drops.
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/PriceDrop'
+
+  /products/barcode/{ean}:
+    get:
+      operationId: getProductByBarcode
+      tags: [products]
+      summary: The product with a barcode.
+      description: |
+        Such a product may have no prices: `price_stats` is then null and the lists are empty.
+        The 404 for an unknown barcode is reported by posokanei-mcp and has not been recorded.
+      parameters:
+        - name: ean
+          in: path
+          required: true
+          schema:
+            type: string
+        - $ref: '#/components/parameters/countries'
+        - $ref: '#/components/parameters/include_tax'
+      responses:
+        '200':
+          description: The product, shaped like a product detail without `history`.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Product'
+        '404':
+          description: No product has this barcode.
+        '429':
+          description: |
+            This endpoint has a rate limit of its own, tighter than the others': a handful of
+            requests brought a `Retry-After` of 803 seconds on 2026-10-11.
+
+  /products/{id}:
+    get:
+      operationId: getProduct
+      tags: [products]
+      summary: One product, with its price at every retailer.
+      parameters:
+        - $ref: '#/components/parameters/product_id'
+        - $ref: '#/components/parameters/countries'
+        - $ref: '#/components/parameters/include_tax'
+        - name: sort_retailers
+          in: query
+          schema:
+            $ref: '#/components/schemas/SortOrder'
+        - name: include_history
+          in: query
+          description: Adds `history`, the daily prices per retailer.
+          schema:
+            type: boolean
+        - name: price_type
+          in: query
+          description: Seen as `unit_price`.
+          schema:
+            type: string
+      responses:
+        '200':
+          description: The product.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Product'
+        '404':
+          description: No such product.
+
+  /products/{id}/competitors:
+    get:
+      operationId: getProductCompetitors
+      tags: [products]
+      summary: Products that compete with one product.
+      parameters:
+        - $ref: '#/components/parameters/product_id'
+        - $ref: '#/components/parameters/include_tax'
+        - name: retailer
+          in: query
+          required: true
+          description: A retailer id. Without it the API answers 400.
+          schema:
+            type: string
+      responses:
+        '200':
+          description: The products of the same category, with their price at that retailer.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Competitors'
+
+components:
+  parameters:
+    countries:
+      name: countries
+      in: query
+      description: '`all`, or an ISO 3166-1 alpha-2 country code such as `GR`.'
+      schema:
+        type: string
+    page:
+      name: page
+      in: query
+      description: The page, from 1.
+      schema:
+        type: integer
+        minimum: 1
+    page_size:
+      name: page_size
+      in: query
+      description: The web app asks for 36; up to 100 is reported to work.
+      schema:
+        type: integer
+        minimum: 1
+    sort_by:
+      name: sort_by
+      in: query
+      description: Seen as `unit_price`.
+      schema:
+        type: string
+    sort_order:
+      name: sort_order
+      in: query
+      schema:
+        $ref: '#/components/schemas/SortOrder'
+    include_tax:
+      name: include_tax
+      in: query
+      schema:
+        type: boolean
+    product_id:
+      name: id
+      in: path
+      required: true
+      description: A product id, 32 hexadecimal characters.
+      schema:
+        type: string
+
+  schemas:
+    SortOrder:
+      type: string
+      enum: [asc, desc]
+
+    Retailer:
+      type: object
+      required: [id, name, country, logo_url, website]
+      properties:
+        id:
+          type: string
+          description: The id other responses use for this retailer, such as `sklavenitis`.
+        name:
+          type: string
+        country:
+          type: string
+          description: ISO 3166-1 alpha-2 country code.
+        logo_url:
+          type: [string, 'null']
+          description: A path relative to the API's base URL.
+        website:
+          type: [string, 'null']
+
+    RetailerList:
+      type: object
+      required: [count, retailers]
+      properties:
+        count:
+          type: integer
+        retailers:
+          type: array
+          items:
+            $ref: '#/components/schemas/Retailer'
+
+    VatRate:
+      type: object
+      required: [rate, source, source_id, inherited]
+      properties:
+        rate:
+          type: number
+          description: Percent.
+        source:
+          type: string
+        source_id:
+          type: [string, 'null']
+        inherited:
+          type: boolean
+
+    CategoryNode:
+      type: object
+      required:
+        - category_id
+        - name
+        - name_en
+        - depth
+        - hidden
+        - image_url
+        - vat_rates
+        - effective_vat_rates
+        - children
+        - total_product_count
+        - product_count
+      properties:
+        category_id:
+          type: string
+        name:
+          type: string
+          description: The Greek name.
+        name_en:
+          type: string
+        depth:
+          type: integer
+          description: 0 for a root category.
+        hidden:
+          type: boolean
+        image_url:
+          type: [string, 'null']
+        vat_rates:
+          description: The VAT rate set on this category itself, in percent, by country code.
+          anyOf:
+            - type: object
+              additionalProperties:
+                type: number
+            - type: 'null'
+        effective_vat_rates:
+          type: object
+          description: The VAT rate that applies, by country code, set here or inherited.
+          additionalProperties:
+            $ref: '#/components/schemas/VatRate'
+        children:
+          type: array
+          items:
+            $ref: '#/components/schemas/CategoryNode'
+        total_product_count:
+          type: integer
+          description: Products in this category and the ones below it.
+        product_count:
+          type: integer
+          description: Products in this category itself.
+
+    CategoryTree:
+      type: object
+      required: [total_categories, root_count, tree]
+      properties:
+        total_categories:
+          type: integer
+        root_count:
+          type: integer
+        tree:
+          type: array
+          items:
+            $ref: '#/components/schemas/CategoryNode'
+
+    PriceStats:
+      type: object
+      required: [min_price, max_price, avg_price, min_unit_price, retailer_count, last_computed]
+      properties:
+        min_price:
+          type: number
+        max_price:
+          type: number
+        avg_price:
+          type: number
+        min_unit_price:
+          type: number
+          description: EUR per `unit` of the product.
+        retailer_count:
+          type: integer
+        last_computed:
+          type: [string, 'null']
+          format: date-time
+          description: Only seen as null.
+
+    RetailerPrice:
+      type: object
+      required:
+        - retailer
+        - retailer_display_name
+        - retailer_name
+        - price
+        - price_normalized
+        - is_discount
+        - discount_percentage
+        - last_updated
+        - country
+      properties:
+        retailer:
+          type: string
+          description: A retailer id.
+        retailer_display_name:
+          type: string
+        retailer_name:
+          type: string
+          description: The product's name at this retailer. Often empty.
+        price:
+          type: number
+          description: EUR.
+        price_normalized:
+          type: number
+          description: EUR per `unit` of the product.
+        is_discount:
+          type: boolean
+        discount_percentage:
+          type: [number, 'null']
+          description: Only seen as null.
+        last_updated:
+          type: string
+          format: date-time
+        country:
+          type: string
+
+    DailyPrice:
+      type: object
+      required: [date, country, price, unit_price]
+      properties:
+        date:
+          type: string
+          format: date
+        country:
+          type: string
+        price:
+          type: number
+        unit_price:
+          type: number
+
+    DateRange:
+      type: object
+      required: [start, end]
+      properties:
+        start:
+          type: string
+          format: date
+        end:
+          type: string
+          format: date
+
+    PriceHistory:
+      type: object
+      required: [retailers, daily_prices, date_range, available_countries]
+      properties:
+        retailers:
+          type: array
+          items:
+            type: string
+        daily_prices:
+          type: object
+          description: The daily prices, by retailer id.
+          additionalProperties:
+            type: array
+            items:
+              $ref: '#/components/schemas/DailyPrice'
+        date_range:
+          $ref: '#/components/schemas/DateRange'
+        available_countries:
+          type: array
+          items:
+            type: string
+
+    Product:
+      type: object
+      required:
+        - id
+        - name
+        - brand
+        - images
+        - category
+        - category_ids
+        - subcategory
+        - description
+        - image_url
+        - has_image
+        - updated_at
+        - image_version
+        - unit
+        - unit_quantity
+        - private_label
+        - price_drop
+        - price_drop_percentage
+        - price_drop_from
+        - price_drop_to
+        - price_drop_start
+        - price_drop_end
+        - price_drop_category
+        - price_drop_title
+        - price_drop_company
+        - price_stats
+        - retailers
+        - retailer_prices
+        - available_countries
+        - is_international
+      properties:
+        id:
+          type: string
+        name:
+          type: string
+        brand:
+          type: string
+        images:
+          type: array
+          description: Only seen empty.
+          items: {}
+        category:
+          type: string
+          description: The category's Greek name.
+        category_ids:
+          type: array
+          items:
+            type: string
+        subcategory:
+          type: string
+        description:
+          type: [string, 'null']
+        image_url:
+          type: [string, 'null']
+        has_image:
+          type: boolean
+        updated_at:
+          type: string
+          format: date-time
+        image_version:
+          type: [string, 'null']
+        unit:
+          type: string
+          description: What `unit_quantity` and the unit prices count in, such as `kg` or `l`.
+        unit_quantity:
+          type: number
+        private_label:
+          type: boolean
+        price_drop:
+          type: boolean
+        price_drop_percentage:
+          type: [number, 'null']
+        price_drop_from:
+          type: [number, 'null']
+        price_drop_to:
+          type: [number, 'null']
+        price_drop_start:
+          type: [string, 'null']
+          format: date
+        price_drop_end:
+          type: [string, 'null']
+          format: date
+        price_drop_category:
+          type: [string, 'null']
+        price_drop_title:
+          type: [string, 'null']
+        price_drop_company:
+          type: [string, 'null']
+          description: Only seen as null.
+        price_stats:
+          description: Null for a product no retailer has a price for.
+          anyOf:
+            - $ref: '#/components/schemas/PriceStats'
+            - type: 'null'
+        retailers:
+          type: array
+          description: The ids of the retailers that sell it.
+          items:
+            type: string
+        retailer_prices:
+          type: array
+          items:
+            $ref: '#/components/schemas/RetailerPrice'
+        available_countries:
+          type: array
+          items:
+            type: string
+        is_international:
+          type: boolean
+        history:
+          description: Only in a product detail, and null unless `include_history` is true.
+          anyOf:
+            - $ref: '#/components/schemas/PriceHistory'
+            - type: 'null'
+
+    ProductPage:
+      type: object
+      required: [products, total, page, page_size, total_pages, has_next, has_prev]
+      properties:
+        products:
+          type: array
+          items:
+            $ref: '#/components/schemas/Product'
+        total:
+          type: integer
+        page:
+          type: integer
+        page_size:
+          type: integer
+        total_pages:
+          type: integer
+        has_next:
+          type: boolean
+        has_prev:
+          type: boolean
+        query_time_ms:
+          type: [number, 'null']
+          description: Only seen as null.
+
+    ProductSearch:
+      type: object
+      required: [title]
+      properties:
+        title:
+          type: string
+        page:
+          type: integer
+        page_size:
+          type: integer
+        sort_by:
+          type: string
+        sort_order:
+          $ref: '#/components/schemas/SortOrder'
+        ids:
+          type: array
+          items:
+            type: string
+
+    PriceDrop:
+      type: object
+      required:
+        - title
+        - category
+        - price_drop_percentage
+        - price_drop_from
+        - price_drop_to
+        - price_drop_start
+        - price_drop_end
+      properties:
+        title:
+          type: string
+        category:
+          type: string
+        price_drop_percentage:
+          type: [number, 'null']
+        price_drop_from:
+          type: [number, 'null']
+        price_drop_to:
+          type: [number, 'null']
+        price_drop_start:
+          type: [string, 'null']
+          format: date
+        price_drop_end:
+          type: [string, 'null']
+          format: date
+
+    Competitor:
+      type: object
+      required:
+        - id
+        - name
+        - private_label
+        - price_drop
+        - price_drop_percentage
+        - price_drop_from
+        - price_drop_to
+        - image_url
+        - category_ids
+        - unit
+        - unit_quantity
+        - retailer_prices
+        - price_stats
+      properties:
+        id:
+          type: string
+        name:
+          type: string
+        private_label:
+          type: boolean
+        price_drop:
+          type: boolean
+        price_drop_percentage:
+          type: [number, 'null']
+        price_drop_from:
+          type: [number, 'null']
+        price_drop_to:
+          type: [number, 'null']
+        image_url:
+          type: [string, 'null']
+        category_ids:
+          type: array
+          items:
+            type: string
+        unit:
+          type: string
+        unit_quantity:
+          type: number
+        retailer_prices:
+          type: array
+          description: Its price at the retailer asked for; empty if that retailer does not sell it.
+          items:
+            $ref: '#/components/schemas/RetailerPrice'
+        price_stats:
+          description: Null when `retailer_prices` is empty.
+          anyOf:
+            - $ref: '#/components/schemas/PriceStats'
+            - type: 'null'
+
+    Competitors:
+      type: object
+      required:
+        - id
+        - product_name
+        - category_id
+        - category_name
+        - category_depth
+        - competitors
+        - total_competitors
+      properties:
+        id:
+          type: string
+          description: The product that was asked about.
+        product_name:
+          type: string
+        category_id:
+          type: string
+          description: The category the competitors are taken from.
+        category_name:
+          type: string
+        category_depth:
+          type: integer
+        competitors:
+          type: array
+          items:
+            $ref: '#/components/schemas/Competitor'
+        total_competitors:
+          type: integer
+
+    Stats:
+      type: object
+      required:
+        - total_products
+        - active_products
+        - retailers
+        - retailer_count
+        - products_on_discount
+        - timestamp
+      properties:
+        total_products:
+          type: integer
+        active_products:
+          type: integer
+        retailers:
+          type: array
+          description: Retailer ids.
+          items:
+            type: string
+        retailer_count:
+          type: integer
+        products_on_discount:
+          type: integer
+        timestamp:
+          type: string
+          format: date-time

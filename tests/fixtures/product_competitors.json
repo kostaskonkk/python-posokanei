@@ -1,0 +1,181 @@
+{
+  "id": "975c34c8d04740dda1e28cd51e28e283",
+  "product_name": "ΚΑΡΑΜΟΛΕΓΚΟΣ  Ψωμί Τοστ Ολικής Άλεσης 720g",
+  "category_id": "b2a17c2ad4235ea8574d602763721135",
+  "category_name": "Ψωμί τυποποιημένο",
+  "category_depth": 2,
+  "competitors": [
+    {
+      "id": "ac2b4685fba6478aa361cf989b6a218a",
+      "name": "ΠΑΠΑΔΟΠΟΥΛΟΥ Γεύση² Ψωμί για Τόστ Σίτου Vegan 325g",
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/ac2b4685fba6478aa361cf989b6a218a?v=69f9aedfdc4b02f7b48585cd",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "b2a17c2ad4235ea8574d602763721135"
+      ],
+      "unit": "kg",
+      "unit_quantity": 0.325,
+      "retailer_prices": [
+        {
+          "retailer": "sklavenitis",
+          "retailer_display_name": "Σκλαβενίτης",
+          "retailer_name": "",
+          "price": 0.98,
+          "price_normalized": 3.02,
+          "is_discount": true,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "price_stats": {
+        "min_price": 0.98,
+        "max_price": 0.98,
+        "avg_price": 0.98,
+        "retailer_count": 1,
+        "min_unit_price": 3.02,
+        "last_computed": null
+      }
+    },
+    {
+      "id": "e0ab2ab334db4a2aa18b1605610f69db",
+      "name": "ΚΑΡΑΜΟΛΕΓΚΟΣ το χρυσό τοστ 360g",
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/e0ab2ab334db4a2aa18b1605610f69db?v=6a983f09ce7de5df71307301",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "b2a17c2ad4235ea8574d602763721135"
+      ],
+      "unit": "kg",
+      "unit_quantity": 0.36,
+      "retailer_prices": [
+        {
+          "retailer": "sklavenitis",
+          "retailer_display_name": "Σκλαβενίτης",
+          "retailer_name": "",
+          "price": 1.15,
+          "price_normalized": 3.19,
+          "is_discount": true,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "price_stats": {
+        "min_price": 1.15,
+        "max_price": 1.15,
+        "avg_price": 1.15,
+        "retailer_count": 1,
+        "min_unit_price": 3.19,
+        "last_computed": null
+      }
+    },
+    {
+      "id": "a06017681f574614a071b51cab94c998",
+      "name": "ΚΑΡΑΜΟΛΕΓΚΟΣ Ψωμί για Τοστ Σίτου με Προζύμι 340g",
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/a06017681f574614a071b51cab94c998?v=69f9c658dc4b02f7b4858776",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "b2a17c2ad4235ea8574d602763721135"
+      ],
+      "unit": "kg",
+      "unit_quantity": 0.34,
+      "retailer_prices": [
+        {
+          "retailer": "sklavenitis",
+          "retailer_display_name": "Σκλαβενίτης",
+          "retailer_name": "",
+          "price": 1.03,
+          "price_normalized": 3.03,
+          "is_discount": true,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "price_stats": {
+        "min_price": 1.03,
+        "max_price": 1.03,
+        "avg_price": 1.03,
+        "retailer_count": 1,
+        "min_unit_price": 3.03,
+        "last_computed": null
+      }
+    },
+    {
+      "id": "76d3f1e944154a0a8ea76644152b1b2b",
+      "name": "ΚΑΤΣΕΛΗΣ Ψωμί για Τοστ Σταρένιο 360g",
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/76d3f1e944154a0a8ea76644152b1b2b?v=69cbc85c72191242fc3b1b93",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "b2a17c2ad4235ea8574d602763721135"
+      ],
+      "unit": "kg",
+      "unit_quantity": 0.36,
+      "retailer_prices": [],
+      "price_stats": null
+    },
+    {
+      "id": "6ecfdf74968e4bf1b041c5c600a33220",
+      "name": "ΠΑΠΑΔΟΠΟΥΛΟΥ Χωριανό Ψωμί για Τοστ Σίτου με 6 Δημητριακά Vegan 500g",
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/6ecfdf74968e4bf1b041c5c600a33220?v=69f9aedfdc4b02f7b48585c9",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "b2a17c2ad4235ea8574d602763721135"
+      ],
+      "unit": "kg",
+      "unit_quantity": 0.5,
+      "retailer_prices": [],
+      "price_stats": null
+    },
+    {
+      "id": "ab1ad616b4fc4b5596f91d7c7ec71896",
+      "name": "ΚΑΤΣΕΛΗΣ  Ψωμί Διπλοζυμωτό Καλαμποκιού Φέτες 500g",
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/ab1ad616b4fc4b5596f91d7c7ec71896?v=69cbc85c72191242fc3b1b90",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "b2a17c2ad4235ea8574d602763721135"
+      ],
+      "unit": "kg",
+      "unit_quantity": 0.5,
+      "retailer_prices": [],
+      "price_stats": null
+    }
+  ],
+  "total_competitors": 51
+}

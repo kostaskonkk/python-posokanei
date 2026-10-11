@@ -1,0 +1,386 @@
+{
+  "products": [
+    {
+      "id": "809e0b3d67ea4660b4bbb8783eca7d58",
+      "name": " FRISKIES Junior Κοτόπουλο Γάλα Λαχανικά 375g ",
+      "brand": " Friskies",
+      "images": [],
+      "category": "Ξηρά Τροφή για Γάτες",
+      "category_ids": [
+        "b2a17c2ad4235ea8574d602763a39395",
+        "b2a17c2ad4235ea8574d602763a3e166",
+        "LalvLeJXgJM1dSanuTmk0BrpThac27dM"
+      ],
+      "subcategory": "Γάτα",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/809e0b3d67ea4660b4bbb8783eca7d58?v=6a704e68ce7de5df71300db6",
+      "has_image": true,
+      "updated_at": "2026-10-11T06:01:49.763000",
+      "image_version": "6a704e68ce7de5df71300db6",
+      "unit": "kg",
+      "unit_quantity": 0.375,
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "price_drop_start": null,
+      "price_drop_end": null,
+      "price_drop_category": null,
+      "price_drop_title": null,
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 1.53,
+        "max_price": 2.68,
+        "avg_price": 2.33,
+        "retailer_count": 6,
+        "min_unit_price": 4.08,
+        "last_computed": null
+      },
+      "retailers": [
+        "carrefour_it",
+        "conad",
+        "galaxias",
+        "halkiadakis"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "mymarket",
+          "retailer_display_name": "My Market",
+          "retailer_name": "",
+          "price": 1.53,
+          "price_normalized": 4.08,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "bazaar",
+          "retailer_display_name": "Bazaar",
+          "retailer_name": "",
+          "price": 2.05,
+          "price_normalized": 5.47,
+          "is_discount": true,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "sklavenitis",
+          "retailer_display_name": "Σκλαβενίτης",
+          "retailer_name": "",
+          "price": 2.55,
+          "price_normalized": 6.8,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "galaxias",
+          "retailer_display_name": "Γαλαξίας",
+          "retailer_name": "",
+          "price": 2.56,
+          "price_normalized": 6.83,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "halkiadakis",
+          "retailer_display_name": "Χαλκιαδάκης",
+          "retailer_name": "",
+          "price": 2.62,
+          "price_normalized": 6.99,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "ab_vasilopoulos",
+          "retailer_display_name": "ΑΒ Βασιλόπουλος",
+          "retailer_name": "",
+          "price": 2.68,
+          "price_normalized": 7.15,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR",
+        "IT"
+      ],
+      "is_international": true
+    },
+    {
+      "id": "a1d2bc0e1bce49d3ade7d6a403c43e80",
+      "name": " L'AMI Φρέσκο Γάλα Πλήρες 3.5% Λιπαρά 1lt",
+      "brand": "L' ami ",
+      "images": [],
+      "category": "Φρέσκο Γάλα",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "b2a17c2ad4235ea8574d6027636cb739",
+        "e3df9225-4906-45b5-90d2-afad28205678",
+        "b2a17c2ad4235ea8574d602763927bee"
+      ],
+      "subcategory": "Φρέσκο/Υψηλής Παστερίωσης/ Μακράς διάρκειας",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/a1d2bc0e1bce49d3ade7d6a403c43e80?v=6a983f00ce7de5df7130724f",
+      "has_image": true,
+      "updated_at": "2026-10-11T04:26:41.892000",
+      "image_version": "6a983f00ce7de5df7130724f",
+      "unit": "L",
+      "unit_quantity": 1.0,
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "price_drop_start": null,
+      "price_drop_end": null,
+      "price_drop_category": null,
+      "price_drop_title": null,
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 1.58,
+        "max_price": 1.58,
+        "avg_price": 1.58,
+        "retailer_count": 1,
+        "min_unit_price": 1.58,
+        "last_computed": null
+      },
+      "retailers": [
+        "sklavenitis"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "sklavenitis",
+          "retailer_display_name": "Σκλαβενίτης",
+          "retailer_name": "",
+          "price": 1.58,
+          "price_normalized": 1.58,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    },
+    {
+      "id": "c42ac94b474246f89c5c6b02df29fbdf",
+      "name": " NAN Bio+ 1 Γάλα για Βρέφη από τη Γέννηση σε σκόνη Βιολογικό 400g",
+      "brand": "NAN",
+      "images": [],
+      "category": "Σκόνες γάλακτος",
+      "category_ids": [
+        "cFsywHNrftQ6yeittltcSFQ4qbM14Q3F",
+        "2d8c28ab-ed6d-4d62-ba59-505ca0d9c379",
+        "eae55727-6a13-4b89-b2e5-13ebddd1ec9d"
+      ],
+      "subcategory": "Βρεφικές τροφές",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/c42ac94b474246f89c5c6b02df29fbdf?v=6a281aef486cf108a79a51ef",
+      "has_image": true,
+      "updated_at": "2026-10-11T06:24:06.965000",
+      "image_version": "6a281aef486cf108a79a51ef",
+      "unit": "kg",
+      "unit_quantity": 0.4,
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "price_drop_start": null,
+      "price_drop_end": null,
+      "price_drop_category": null,
+      "price_drop_title": null,
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 13.2,
+        "max_price": 13.2,
+        "avg_price": 13.2,
+        "retailer_count": 1,
+        "min_unit_price": 33.0,
+        "last_computed": null
+      },
+      "retailers": [
+        "ab_vasilopoulos",
+        "sklavenitis",
+        "synka"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "synka",
+          "retailer_display_name": "Synka",
+          "retailer_name": "",
+          "price": 13.2,
+          "price_normalized": 33.0,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    },
+    {
+      "id": "e52de89cb8c9439abd65915223b5ff84",
+      "name": "ADORO Γάλα Μακράς Διάρκειας 3,5% Easy Open 1lt",
+      "brand": "ADORO",
+      "images": [],
+      "category": "Γάλα Υψηλής Παστερίωσης",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "b2a17c2ad4235ea8574d6027636cb739",
+        "e3df9225-4906-45b5-90d2-afad28205678",
+        "b2a17c2ad4235ea8574d6027639286fb"
+      ],
+      "subcategory": "Φρέσκο/Υψηλής Παστερίωσης/ Μακράς διάρκειας",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/e52de89cb8c9439abd65915223b5ff84?v=69f9f1dadc4b02f7b4858aed",
+      "has_image": true,
+      "updated_at": "2026-10-11T04:03:30.153000",
+      "image_version": "69f9f1dadc4b02f7b4858aed",
+      "unit": "L",
+      "unit_quantity": 1.0,
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "price_drop_start": null,
+      "price_drop_end": null,
+      "price_drop_category": null,
+      "price_drop_title": null,
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 1.03,
+        "max_price": 1.03,
+        "avg_price": 1.03,
+        "retailer_count": 1,
+        "min_unit_price": 1.03,
+        "last_computed": null
+      },
+      "retailers": [
+        "mymarket"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "mymarket",
+          "retailer_display_name": "My Market",
+          "retailer_name": "",
+          "price": 1.03,
+          "price_normalized": 1.03,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    },
+    {
+      "id": "4df4216bcd264bffa8edbe134cc8d3a8",
+      "name": "FRISKIES Junior Κοτόπουλο Γάλα Λαχανικά 1,5kg ",
+      "brand": " Friskies",
+      "images": [],
+      "category": "Ξηρά Τροφή για Γάτες",
+      "category_ids": [
+        "b2a17c2ad4235ea8574d602763a39395",
+        "b2a17c2ad4235ea8574d602763a3e166",
+        "LalvLeJXgJM1dSanuTmk0BrpThac27dM"
+      ],
+      "subcategory": "Γάτα",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/4df4216bcd264bffa8edbe134cc8d3a8?v=6a704e67ce7de5df71300d44",
+      "has_image": true,
+      "updated_at": "2026-10-11T04:24:25.471000",
+      "image_version": "6a704e67ce7de5df71300d44",
+      "unit": "kg",
+      "unit_quantity": 1.5,
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "price_drop_start": null,
+      "price_drop_end": null,
+      "price_drop_category": null,
+      "price_drop_title": null,
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 5.04,
+        "max_price": 8.4,
+        "avg_price": 7.28,
+        "retailer_count": 3,
+        "min_unit_price": 3.36,
+        "last_computed": null
+      },
+      "retailers": [
+        "galaxias"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "mymarket",
+          "retailer_display_name": "My Market",
+          "retailer_name": "",
+          "price": 5.04,
+          "price_normalized": 3.36,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "sklavenitis",
+          "retailer_display_name": "Σκλαβενίτης",
+          "retailer_name": "",
+          "price": 8.4,
+          "price_normalized": 5.6,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "galaxias",
+          "retailer_display_name": "Γαλαξίας",
+          "retailer_name": "",
+          "price": 8.4,
+          "price_normalized": 5.6,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    }
+  ],
+  "total": 280,
+  "page": 1,
+  "page_size": 5,
+  "total_pages": 56,
+  "has_next": true,
+  "has_prev": false,
+  "query_time_ms": null
+}

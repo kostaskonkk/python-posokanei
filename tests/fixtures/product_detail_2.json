@@ -1,0 +1,168 @@
+{
+  "id": "06ed7077d6484a44b5c1a023f8fb8f0a",
+  "name": " ΛΟΥΜΙΔΗΣ  Καφές Ελληνικός Παραδοσιακός 194g",
+  "brand": "ΛΟΥΜΙΔΗΣ",
+  "images": [],
+  "category": "Ελληνικός Καφές",
+  "category_ids": [
+    "7f677200338b447cb4d469622588b749",
+    "b2a17c2ad4235ea8574d602763685e44",
+    "b2a17c2ad4235ea8574d60276381f3aa"
+  ],
+  "subcategory": "Καφές",
+  "description": "Ο αγαπημένος ελληνικός καφές.\r\nΜε εκλεκτό, άριστης ποιότητας χαρμάνι, με άρωμα πλούσιο, απολαυστικό... με όνομα ξακουστό... από το 1919.",
+  "image_url": "https://api.posokanei.gov.gr/images/product/06ed7077d6484a44b5c1a023f8fb8f0a?v=69f9ba9cdc4b02f7b48586ac",
+  "has_image": true,
+  "updated_at": "2026-10-11T06:18:38.180000",
+  "image_version": "69f9ba9cdc4b02f7b48586ac",
+  "unit": "kg",
+  "unit_quantity": 0.194,
+  "private_label": false,
+  "price_drop": false,
+  "price_drop_percentage": null,
+  "price_drop_from": null,
+  "price_drop_to": null,
+  "price_drop_start": null,
+  "price_drop_end": null,
+  "price_drop_category": null,
+  "price_drop_title": null,
+  "price_drop_company": null,
+  "price_stats": {
+    "min_price": 3.29,
+    "max_price": 4.78,
+    "avg_price": 4.61,
+    "retailer_count": 10,
+    "min_unit_price": 16.96,
+    "last_computed": null
+  },
+  "retailers": [
+    "ab_vasilopoulos",
+    "galaxias",
+    "halkiadakis",
+    "kritikos",
+    "market_in",
+    "masoutis",
+    "mymarket",
+    "sklavenitis",
+    "lidl",
+    "bazaar",
+    "synka"
+  ],
+  "retailer_prices": [
+    {
+      "retailer": "bazaar",
+      "retailer_display_name": "Bazaar",
+      "retailer_name": " ΛΟΥΜΙΔΗΣ  Καφές Ελληνικός Παραδοσιακός 194g",
+      "price": 3.29,
+      "price_normalized": 16.96,
+      "is_discount": true,
+      "discount_percentage": null,
+      "last_updated": "2026-10-11T00:00:00",
+      "country": "GR"
+    },
+    {
+      "retailer": "ab_vasilopoulos",
+      "retailer_display_name": "ΑΒ Βασιλόπουλος",
+      "retailer_name": " ΛΟΥΜΙΔΗΣ  Καφές Ελληνικός Παραδοσιακός 194g",
+      "price": 4.76,
+      "price_normalized": 24.54,
+      "is_discount": false,
+      "discount_percentage": null,
+      "last_updated": "2026-10-11T00:00:00",
+      "country": "GR"
+    },
+    {
+      "retailer": "synka",
+      "retailer_display_name": "Synka",
+      "retailer_name": " ΛΟΥΜΙΔΗΣ  Καφές Ελληνικός Παραδοσιακός 194g",
+      "price": 4.76,
+      "price_normalized": 24.54,
+      "is_discount": false,
+      "discount_percentage": null,
+      "last_updated": "2026-10-11T00:00:00",
+      "country": "GR"
+    },
+    {
+      "retailer": "lidl",
+      "retailer_display_name": "Lidl",
+      "retailer_name": " ΛΟΥΜΙΔΗΣ  Καφές Ελληνικός Παραδοσιακός 194g",
+      "price": 4.76,
+      "price_normalized": 24.54,
+      "is_discount": false,
+      "discount_percentage": null,
+      "last_updated": "2026-10-11T00:00:00",
+      "country": "GR"
+    },
+    {
+      "retailer": "sklavenitis",
+      "retailer_display_name": "Σκλαβενίτης",
+      "retailer_name": " ΛΟΥΜΙΔΗΣ  Καφές Ελληνικός Παραδοσιακός 194g",
+      "price": 4.76,
+      "price_normalized": 24.54,
+      "is_discount": false,
+      "discount_percentage": null,
+      "last_updated": "2026-10-11T00:00:00",
+      "country": "GR"
+    },
+    {
+      "retailer": "masoutis",
+      "retailer_display_name": "Μασούτης",
+      "retailer_name": " ΛΟΥΜΙΔΗΣ  Καφές Ελληνικός Παραδοσιακός 194g",
+      "price": 4.76,
+      "price_normalized": 24.54,
+      "is_discount": false,
+      "discount_percentage": null,
+      "last_updated": "2026-10-11T00:00:00",
+      "country": "GR"
+    },
+    {
+      "retailer": "galaxias",
+      "retailer_display_name": "Γαλαξίας",
+      "retailer_name": " ΛΟΥΜΙΔΗΣ  Καφές Ελληνικός Παραδοσιακός 194g",
+      "price": 4.76,
+      "price_normalized": 24.54,
+      "is_discount": false,
+      "discount_percentage": null,
+      "last_updated": "2026-10-11T00:00:00",
+      "country": "GR"
+    },
+    {
+      "retailer": "kritikos",
+      "retailer_display_name": "Κρητικός",
+      "retailer_name": " ΛΟΥΜΙΔΗΣ  Καφές Ελληνικός Παραδοσιακός 194g",
+      "price": 4.76,
+      "price_normalized": 24.54,
+      "is_discount": false,
+      "discount_percentage": null,
+      "last_updated": "2026-10-11T00:00:00",
+      "country": "GR"
+    },
+    {
+      "retailer": "mymarket",
+      "retailer_display_name": "My Market",
+      "retailer_name": " ΛΟΥΜΙΔΗΣ  Καφές Ελληνικός Παραδοσιακός 194g",
+      "price": 4.76,
+      "price_normalized": 24.54,
+      "is_discount": false,
+      "discount_percentage": null,
+      "last_updated": "2026-10-11T00:00:00",
+      "country": "GR"
+    },
+    {
+      "retailer": "halkiadakis",
+      "retailer_display_name": "Χαλκιαδάκης",
+      "retailer_name": " ΛΟΥΜΙΔΗΣ  Καφές Ελληνικός Παραδοσιακός 194g",
+      "price": 4.78,
+      "price_normalized": 24.64,
+      "is_discount": false,
+      "discount_percentage": null,
+      "last_updated": "2026-10-11T00:00:00",
+      "country": "GR"
+    }
+  ],
+  "available_countries": [
+    "GR"
+  ],
+  "is_international": false,
+  "history": null
+}

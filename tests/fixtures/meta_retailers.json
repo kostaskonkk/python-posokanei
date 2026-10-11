@@ -1,0 +1,166 @@
+{
+  "count": 23,
+  "retailers": [
+    {
+      "id": "alphamega",
+      "name": "Alphamega",
+      "country": "CY",
+      "logo_url": "/images/retailer/alphamega",
+      "website": "https://www.alphamega.com.cy"
+    },
+    {
+      "id": "auchan",
+      "name": "Auchan",
+      "country": "FR",
+      "logo_url": "/images/retailer/auchan",
+      "website": "https://www.auchan.fr"
+    },
+    {
+      "id": "bazaar",
+      "name": "Bazaar",
+      "country": "GR",
+      "logo_url": "/images/retailer/bazaar",
+      "website": "https://www.bazaar-online.gr"
+    },
+    {
+      "id": "carrefour_es",
+      "name": "Carrefour España",
+      "country": "ES",
+      "logo_url": "/images/retailer/carrefour_es",
+      "website": "https://www.carrefour.es"
+    },
+    {
+      "id": "carrefour_it",
+      "name": "Carrefour Italia",
+      "country": "IT",
+      "logo_url": "/images/retailer/carrefour_it",
+      "website": "https://www.carrefour.it"
+    },
+    {
+      "id": "colruyt",
+      "name": "Colruyt",
+      "country": "BE",
+      "logo_url": "/images/retailer/colruyt",
+      "website": "https://www.colruyt.be"
+    },
+    {
+      "id": "conad",
+      "name": "Conad",
+      "country": "IT",
+      "logo_url": "/images/retailer/conad",
+      "website": "https://spesaonline.conad.it"
+    },
+    {
+      "id": "continente",
+      "name": "Continente",
+      "country": "PT",
+      "logo_url": "/images/retailer/continente",
+      "website": "https://www.continente.pt"
+    },
+    {
+      "id": "delhaize",
+      "name": "Delhaize",
+      "country": "BE",
+      "logo_url": "/images/retailer/delhaize",
+      "website": "https://www.delhaize.be"
+    },
+    {
+      "id": "edeka24",
+      "name": "Edeka24",
+      "country": "DE",
+      "logo_url": "/images/retailer/edeka24",
+      "website": null
+    },
+    {
+      "id": "freshful",
+      "name": "Freshful",
+      "country": "RO",
+      "logo_url": "/images/retailer/freshful",
+      "website": "https://www.freshful.ro"
+    },
+    {
+      "id": "frisco",
+      "name": "Frisco",
+      "country": "PL",
+      "logo_url": null,
+      "website": "https://www.frisco.pl"
+    },
+    {
+      "id": "lidl",
+      "name": "Lidl",
+      "country": "GR",
+      "logo_url": "/images/retailer/lidl",
+      "website": "https://www.lidl-hellas.gr"
+    },
+    {
+      "id": "market_in",
+      "name": "Market In",
+      "country": "GR",
+      "logo_url": "/images/retailer/market_in",
+      "website": "https://www.market-in.gr"
+    },
+    {
+      "id": "mymarket",
+      "name": "My Market",
+      "country": "GR",
+      "logo_url": "/images/retailer/mymarket",
+      "website": "https://www.mymarket.gr"
+    },
+    {
+      "id": "ebag",
+      "name": "eBag",
+      "country": "BG",
+      "logo_url": "/images/retailer/ebag",
+      "website": "https://www.ebag.bg"
+    },
+    {
+      "id": "ab_vasilopoulos",
+      "name": "ΑΒ Βασιλόπουλος",
+      "country": "GR",
+      "logo_url": "/images/retailer/ab_vasilopoulos",
+      "website": "https://www.ab.gr"
+    },
+    {
+      "id": "galaxias",
+      "name": "Γαλαξίας",
+      "country": "GR",
+      "logo_url": "/images/retailer/galaxias",
+      "website": "https://www.5ae.gr"
+    },
+    {
+      "id": "kritikos",
+      "name": "Κρητικός",
+      "country": "GR",
+      "logo_url": "/images/retailer/kritikos",
+      "website": "https://www.kritikos-sm.gr"
+    },
+    {
+      "id": "masoutis",
+      "name": "Μασούτης",
+      "country": "GR",
+      "logo_url": "/images/retailer/masoutis",
+      "website": "https://www.masoutis.gr"
+    },
+    {
+      "id": "synka",
+      "name": "ΣΥΝ.ΚΑ",
+      "country": "GR",
+      "logo_url": "/images/retailer/synka",
+      "website": null
+    },
+    {
+      "id": "sklavenitis",
+      "name": "Σκλαβενίτης",
+      "country": "GR",
+      "logo_url": "/images/retailer/sklavenitis",
+      "website": "https://www.sklavenitis.gr"
+    },
+    {
+      "id": "halkiadakis",
+      "name": "Χαλκιαδάκης",
+      "country": "GR",
+      "logo_url": "/images/retailer/xalkiadakis",
+      "website": "https://www.xalkiadakis.gr"
+    }
+  ]
+}

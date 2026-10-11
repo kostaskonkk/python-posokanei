@@ -1,0 +1,32 @@
+{
+  "total_products": 10150,
+  "active_products": 10150,
+  "retailers": [
+    "masoutis",
+    "sklavenitis",
+    "galaxias",
+    "ab_vasilopoulos",
+    "mymarket",
+    "synka",
+    "halkiadakis",
+    "kritikos",
+    "bazaar",
+    "market_in",
+    "alphamega",
+    "lidl",
+    "freshful",
+    "carrefour_es",
+    "ebag",
+    "delhaize",
+    "continente",
+    "frisco",
+    "carrefour_it",
+    "conad",
+    "colruyt",
+    "auchan",
+    "edeka24"
+  ],
+  "retailer_count": 23,
+  "products_on_discount": 3917,
+  "timestamp": "2026-10-11T09:18:18.789487"
+}

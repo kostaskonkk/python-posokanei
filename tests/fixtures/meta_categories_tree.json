@@ -1,0 +1,1546 @@
+{
+  "total_categories": 2694,
+  "root_count": 19,
+  "tree": [
+    {
+      "category_id": "cFsywHNrftQ6yeittltcSFQ4qbM14Q3F",
+      "name": "Βρεφικά",
+      "name_en": "Infants",
+      "depth": 0,
+      "hidden": false,
+      "image_url": "https://api.posokanei.gov.gr/images/category/cFsywHNrftQ6yeittltcSFQ4qbM14Q3F?v=1779894968",
+      "vat_rates": null,
+      "effective_vat_rates": {
+        "BE": {
+          "rate": 21.0,
+          "source": "Standard rate",
+          "source_id": null,
+          "inherited": true
+        },
+        "BG": {
+          "rate": 0.0,
+          "source": "Standard rate",
+          "source_id": null,
+          "inherited": true
+        },
+        "CY": {
+          "rate": 0.0,
+          "source": "Standard rate",
+          "source_id": null,
+          "inherited": true
+        },
+        "DE": {
+          "rate": 19.0,
+          "source": "Standard rate",
+          "source_id": null,
+          "inherited": true
+        },
+        "ES": {
+          "rate": 21.0,
+          "source": "Standard rate",
+          "source_id": null,
+          "inherited": true
+        },
+        "FR": {
+          "rate": 20.0,
+          "source": "Standard rate",
+          "source_id": null,
+          "inherited": true
+        },
+        "GR": {
+          "rate": 24.0,
+          "source": "Standard rate",
+          "source_id": null,
+          "inherited": true
+        },
+        "IT": {
+          "rate": 22.0,
+          "source": "Standard rate",
+          "source_id": null,
+          "inherited": true
+        },
+        "PL": {
+          "rate": 23.0,
+          "source": "Standard rate",
+          "source_id": null,
+          "inherited": true
+        },
+        "PT": {
+          "rate": 23.0,
+          "source": "Standard rate",
+          "source_id": null,
+          "inherited": true
+        },
+        "RO": {
+          "rate": 21.0,
+          "source": "Standard rate",
+          "source_id": null,
+          "inherited": true
+        }
+      },
+      "children": [
+        {
+          "category_id": "2d8c28ab-ed6d-4d62-ba59-505ca0d9c379",
+          "name": "Βρεφικές τροφές",
+          "name_en": "baby food",
+          "depth": 1,
+          "hidden": false,
+          "image_url": "https://api.posokanei.gov.gr/images/category/2d8c28ab-ed6d-4d62-ba59-505ca0d9c379?v=1780130121",
+          "vat_rates": null,
+          "effective_vat_rates": {
+            "BE": {
+              "rate": 21.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "BG": {
+              "rate": 0.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "CY": {
+              "rate": 0.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "DE": {
+              "rate": 19.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "ES": {
+              "rate": 21.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "FR": {
+              "rate": 20.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "GR": {
+              "rate": 24.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "IT": {
+              "rate": 22.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "PL": {
+              "rate": 23.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "PT": {
+              "rate": 23.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "RO": {
+              "rate": 21.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            }
+          },
+          "children": [
+            {
+              "category_id": "21fed3c83e3d432d9e71ccbf6c5d928b",
+              "name": "Κρέμες",
+              "name_en": "Baby Creams",
+              "depth": 2,
+              "hidden": false,
+              "image_url": null,
+              "vat_rates": null,
+              "effective_vat_rates": {
+                "BE": {
+                  "rate": 21.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "BG": {
+                  "rate": 0.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "CY": {
+                  "rate": 0.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "DE": {
+                  "rate": 19.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "ES": {
+                  "rate": 21.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "FR": {
+                  "rate": 20.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "GR": {
+                  "rate": 24.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "IT": {
+                  "rate": 22.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "PL": {
+                  "rate": 23.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "PT": {
+                  "rate": 23.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "RO": {
+                  "rate": 21.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                }
+              },
+              "children": [],
+              "total_product_count": 24,
+              "product_count": 24
+            },
+            {
+              "category_id": "eae55727-6a13-4b89-b2e5-13ebddd1ec9d",
+              "name": "Σκόνες γάλακτος",
+              "name_en": "Baby milk powders",
+              "depth": 2,
+              "hidden": false,
+              "image_url": "https://api.posokanei.gov.gr/images/category/eae55727-6a13-4b89-b2e5-13ebddd1ec9d?v=1780129963",
+              "vat_rates": null,
+              "effective_vat_rates": {
+                "BE": {
+                  "rate": 21.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "BG": {
+                  "rate": 0.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "CY": {
+                  "rate": 0.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "DE": {
+                  "rate": 19.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "ES": {
+                  "rate": 21.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "FR": {
+                  "rate": 20.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "GR": {
+                  "rate": 24.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "IT": {
+                  "rate": 22.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "PL": {
+                  "rate": 23.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "PT": {
+                  "rate": 23.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "RO": {
+                  "rate": 21.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                }
+              },
+              "children": [],
+              "total_product_count": 48,
+              "product_count": 48
+            },
+            {
+              "category_id": "61ffc70077fb49758235f1a267bb7238",
+              "name": "Σνακ",
+              "name_en": "Snacks",
+              "depth": 2,
+              "hidden": false,
+              "image_url": "https://api.posokanei.gov.gr/images/category/61ffc70077fb49758235f1a267bb7238?v=1780130098",
+              "vat_rates": {
+                "BE": 6.0,
+                "DE": 7.0,
+                "ES": 10.0,
+                "FR": 5.5,
+                "GR": 6.0,
+                "IT": 4.0
+              },
+              "effective_vat_rates": {
+                "BE": {
+                  "rate": 6.0,
+                  "source": "Snacks",
+                  "source_id": "61ffc70077fb49758235f1a267bb7238",
+                  "inherited": false
+                },
+                "BG": {
+                  "rate": 0.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "CY": {
+                  "rate": 0.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "DE": {
+                  "rate": 7.0,
+                  "source": "Snacks",
+                  "source_id": "61ffc70077fb49758235f1a267bb7238",
+                  "inherited": false
+                },
+                "ES": {
+                  "rate": 10.0,
+                  "source": "Snacks",
+                  "source_id": "61ffc70077fb49758235f1a267bb7238",
+                  "inherited": false
+                },
+                "FR": {
+                  "rate": 5.5,
+                  "source": "Snacks",
+                  "source_id": "61ffc70077fb49758235f1a267bb7238",
+                  "inherited": false
+                },
+                "GR": {
+                  "rate": 6.0,
+                  "source": "Snacks",
+                  "source_id": "61ffc70077fb49758235f1a267bb7238",
+                  "inherited": false
+                },
+                "IT": {
+                  "rate": 4.0,
+                  "source": "Snacks",
+                  "source_id": "61ffc70077fb49758235f1a267bb7238",
+                  "inherited": false
+                },
+                "PL": {
+                  "rate": 23.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "PT": {
+                  "rate": 23.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "RO": {
+                  "rate": 21.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                }
+              },
+              "children": [],
+              "total_product_count": 31,
+              "product_count": 31
+            }
+          ],
+          "total_product_count": 103,
+          "product_count": 0
+        },
+        {
+          "category_id": "4iUvRQEGNw20cd2MVa45RA3C30RQSmJ9",
+          "name": "Βρεφική φροντίδα",
+          "name_en": "Infant care",
+          "depth": 1,
+          "hidden": false,
+          "image_url": "https://api.posokanei.gov.gr/images/category/4iUvRQEGNw20cd2MVa45RA3C30RQSmJ9?v=1779894995",
+          "vat_rates": null,
+          "effective_vat_rates": {
+            "BE": {
+              "rate": 21.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "BG": {
+              "rate": 0.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "CY": {
+              "rate": 0.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "DE": {
+              "rate": 19.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "ES": {
+              "rate": 21.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "FR": {
+              "rate": 20.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "GR": {
+              "rate": 24.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "IT": {
+              "rate": 22.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "PL": {
+              "rate": 23.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "PT": {
+              "rate": 23.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "RO": {
+              "rate": 21.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            }
+          },
+          "children": [
+            {
+              "category_id": "x5cKvDKyvAyQZm3mQzwU7Hx4EPfQOXLa",
+              "name": "Conditioners για Παιδιά",
+              "name_en": "Baby Hair Conditioners",
+              "depth": 2,
+              "hidden": false,
+              "image_url": null,
+              "vat_rates": null,
+              "effective_vat_rates": {
+                "BE": {
+                  "rate": 21.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "BG": {
+                  "rate": 0.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "CY": {
+                  "rate": 0.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "DE": {
+                  "rate": 19.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "ES": {
+                  "rate": 21.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "FR": {
+                  "rate": 20.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "GR": {
+                  "rate": 24.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "IT": {
+                  "rate": 22.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "PL": {
+                  "rate": 23.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "PT": {
+                  "rate": 23.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "RO": {
+                  "rate": 21.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                }
+              },
+              "children": [],
+              "total_product_count": 2,
+              "product_count": 2
+            },
+            {
+              "category_id": "ARVz4ZU2Xb4sd4HklL5BjdzxSA5fZwy5",
+              "name": "Λάδια & Κρέμες Σώματος για Παιδιά",
+              "name_en": "Oils and Body Cremes for Kids",
+              "depth": 2,
+              "hidden": false,
+              "image_url": null,
+              "vat_rates": null,
+              "effective_vat_rates": {
+                "BE": {
+                  "rate": 21.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "BG": {
+                  "rate": 0.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "CY": {
+                  "rate": 0.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "DE": {
+                  "rate": 19.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "ES": {
+                  "rate": 21.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "FR": {
+                  "rate": 20.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "GR": {
+                  "rate": 24.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "IT": {
+                  "rate": 22.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "PL": {
+                  "rate": 23.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "PT": {
+                  "rate": 23.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "RO": {
+                  "rate": 21.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                }
+              },
+              "children": [],
+              "total_product_count": 9,
+              "product_count": 9
+            }
+          ],
+          "total_product_count": 31,
+          "product_count": 20
+        },
+        {
+          "category_id": "H5KFau27oypQKyVWIA4Qwogcxhmtkw5h",
+          "name": "Μωρομάντηλα",
+          "name_en": "Baby Wipes",
+          "depth": 1,
+          "hidden": false,
+          "image_url": "https://api.posokanei.gov.gr/images/category/H5KFau27oypQKyVWIA4Qwogcxhmtkw5h?v=1779721882",
+          "vat_rates": null,
+          "effective_vat_rates": {
+            "BE": {
+              "rate": 21.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "BG": {
+              "rate": 0.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "CY": {
+              "rate": 0.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "DE": {
+              "rate": 19.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "ES": {
+              "rate": 21.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "FR": {
+              "rate": 20.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "GR": {
+              "rate": 24.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "IT": {
+              "rate": 22.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "PL": {
+              "rate": 23.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "PT": {
+              "rate": 23.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "RO": {
+              "rate": 21.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            }
+          },
+          "children": [],
+          "total_product_count": 67,
+          "product_count": 67
+        },
+        {
+          "category_id": "FJEqpQsEKVtYNPfbuDc7TNJncRy4hiNR",
+          "name": "Παιδικές Πάνες",
+          "name_en": "Baby Diapers",
+          "depth": 1,
+          "hidden": false,
+          "image_url": "https://api.posokanei.gov.gr/images/category/FJEqpQsEKVtYNPfbuDc7TNJncRy4hiNR?v=1779965589",
+          "vat_rates": null,
+          "effective_vat_rates": {
+            "BE": {
+              "rate": 21.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "BG": {
+              "rate": 0.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "CY": {
+              "rate": 0.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "DE": {
+              "rate": 19.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "ES": {
+              "rate": 21.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "FR": {
+              "rate": 20.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "GR": {
+              "rate": 24.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "IT": {
+              "rate": 22.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "PL": {
+              "rate": 23.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "PT": {
+              "rate": 23.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "RO": {
+              "rate": 21.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            }
+          },
+          "children": [],
+          "total_product_count": 66,
+          "product_count": 66
+        }
+      ],
+      "total_product_count": 267,
+      "product_count": 0
+    },
+    {
+      "category_id": "b2a17c2ad4235ea8574d602763a39395",
+      "name": "Είδη για Κατοικίδια",
+      "name_en": "Pet Shop",
+      "depth": 0,
+      "hidden": false,
+      "image_url": "https://api.posokanei.gov.gr/images/category/b2a17c2ad4235ea8574d602763a39395?v=1776424583",
+      "vat_rates": {
+        "BE": 6.0,
+        "DE": 7.0,
+        "ES": 10.0,
+        "FR": 20,
+        "GR": 24,
+        "IT": 22
+      },
+      "effective_vat_rates": {
+        "BE": {
+          "rate": 6.0,
+          "source": "Pet Shop",
+          "source_id": "b2a17c2ad4235ea8574d602763a39395",
+          "inherited": false
+        },
+        "BG": {
+          "rate": 0.0,
+          "source": "Standard rate",
+          "source_id": null,
+          "inherited": true
+        },
+        "CY": {
+          "rate": 0.0,
+          "source": "Standard rate",
+          "source_id": null,
+          "inherited": true
+        },
+        "DE": {
+          "rate": 7.0,
+          "source": "Pet Shop",
+          "source_id": "b2a17c2ad4235ea8574d602763a39395",
+          "inherited": false
+        },
+        "ES": {
+          "rate": 10.0,
+          "source": "Pet Shop",
+          "source_id": "b2a17c2ad4235ea8574d602763a39395",
+          "inherited": false
+        },
+        "FR": {
+          "rate": 20,
+          "source": "Pet Shop",
+          "source_id": "b2a17c2ad4235ea8574d602763a39395",
+          "inherited": false
+        },
+        "GR": {
+          "rate": 24,
+          "source": "Pet Shop",
+          "source_id": "b2a17c2ad4235ea8574d602763a39395",
+          "inherited": false
+        },
+        "IT": {
+          "rate": 22,
+          "source": "Pet Shop",
+          "source_id": "b2a17c2ad4235ea8574d602763a39395",
+          "inherited": false
+        },
+        "PL": {
+          "rate": 23.0,
+          "source": "Standard rate",
+          "source_id": null,
+          "inherited": true
+        },
+        "PT": {
+          "rate": 23.0,
+          "source": "Standard rate",
+          "source_id": null,
+          "inherited": true
+        },
+        "RO": {
+          "rate": 21.0,
+          "source": "Standard rate",
+          "source_id": null,
+          "inherited": true
+        }
+      },
+      "children": [
+        {
+          "category_id": "b2a17c2ad4235ea8574d602763a3e166",
+          "name": "Γάτα",
+          "name_en": "Cat food",
+          "depth": 1,
+          "hidden": false,
+          "image_url": "https://api.posokanei.gov.gr/images/category/b2a17c2ad4235ea8574d602763a3e166?v=1779896600",
+          "vat_rates": null,
+          "effective_vat_rates": {
+            "BE": {
+              "rate": 6.0,
+              "source": "Pet Shop",
+              "source_id": "b2a17c2ad4235ea8574d602763a39395",
+              "inherited": true
+            },
+            "BG": {
+              "rate": 0.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "CY": {
+              "rate": 0.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "DE": {
+              "rate": 7.0,
+              "source": "Pet Shop",
+              "source_id": "b2a17c2ad4235ea8574d602763a39395",
+              "inherited": true
+            },
+            "ES": {
+              "rate": 10.0,
+              "source": "Pet Shop",
+              "source_id": "b2a17c2ad4235ea8574d602763a39395",
+              "inherited": true
+            },
+            "FR": {
+              "rate": 20,
+              "source": "Pet Shop",
+              "source_id": "b2a17c2ad4235ea8574d602763a39395",
+              "inherited": true
+            },
+            "GR": {
+              "rate": 24,
+              "source": "Pet Shop",
+              "source_id": "b2a17c2ad4235ea8574d602763a39395",
+              "inherited": true
+            },
+            "IT": {
+              "rate": 22,
+              "source": "Pet Shop",
+              "source_id": "b2a17c2ad4235ea8574d602763a39395",
+              "inherited": true
+            },
+            "PL": {
+              "rate": 23.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "PT": {
+              "rate": 23.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "RO": {
+              "rate": 21.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            }
+          },
+          "children": [
+            {
+              "category_id": "LalvLeJXgJM1dSanuTmk0BrpThac27dM",
+              "name": "Ξηρά Τροφή για Γάτες",
+              "name_en": "Dry Cat Food",
+              "depth": 2,
+              "hidden": false,
+              "image_url": null,
+              "vat_rates": null,
+              "effective_vat_rates": {
+                "BE": {
+                  "rate": 6.0,
+                  "source": "Pet Shop",
+                  "source_id": "b2a17c2ad4235ea8574d602763a39395",
+                  "inherited": true
+                },
+                "BG": {
+                  "rate": 0.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "CY": {
+                  "rate": 0.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "DE": {
+                  "rate": 7.0,
+                  "source": "Pet Shop",
+                  "source_id": "b2a17c2ad4235ea8574d602763a39395",
+                  "inherited": true
+                },
+                "ES": {
+                  "rate": 10.0,
+                  "source": "Pet Shop",
+                  "source_id": "b2a17c2ad4235ea8574d602763a39395",
+                  "inherited": true
+                },
+                "FR": {
+                  "rate": 20,
+                  "source": "Pet Shop",
+                  "source_id": "b2a17c2ad4235ea8574d602763a39395",
+                  "inherited": true
+                },
+                "GR": {
+                  "rate": 24,
+                  "source": "Pet Shop",
+                  "source_id": "b2a17c2ad4235ea8574d602763a39395",
+                  "inherited": true
+                },
+                "IT": {
+                  "rate": 22,
+                  "source": "Pet Shop",
+                  "source_id": "b2a17c2ad4235ea8574d602763a39395",
+                  "inherited": true
+                },
+                "PL": {
+                  "rate": 23.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "PT": {
+                  "rate": 23.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "RO": {
+                  "rate": 21.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                }
+              },
+              "children": [],
+              "total_product_count": 39,
+              "product_count": 39
+            },
+            {
+              "category_id": "Wma2R8gCMGFHl5KcYYLWGrlAIaO8igZm",
+              "name": "Υγρή Τροφή για Γάτες",
+              "name_en": "Wet Cat Food",
+              "depth": 2,
+              "hidden": false,
+              "image_url": null,
+              "vat_rates": null,
+              "effective_vat_rates": {
+                "BE": {
+                  "rate": 6.0,
+                  "source": "Pet Shop",
+                  "source_id": "b2a17c2ad4235ea8574d602763a39395",
+                  "inherited": true
+                },
+                "BG": {
+                  "rate": 0.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "CY": {
+                  "rate": 0.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "DE": {
+                  "rate": 7.0,
+                  "source": "Pet Shop",
+                  "source_id": "b2a17c2ad4235ea8574d602763a39395",
+                  "inherited": true
+                },
+                "ES": {
+                  "rate": 10.0,
+                  "source": "Pet Shop",
+                  "source_id": "b2a17c2ad4235ea8574d602763a39395",
+                  "inherited": true
+                },
+                "FR": {
+                  "rate": 20,
+                  "source": "Pet Shop",
+                  "source_id": "b2a17c2ad4235ea8574d602763a39395",
+                  "inherited": true
+                },
+                "GR": {
+                  "rate": 24,
+                  "source": "Pet Shop",
+                  "source_id": "b2a17c2ad4235ea8574d602763a39395",
+                  "inherited": true
+                },
+                "IT": {
+                  "rate": 22,
+                  "source": "Pet Shop",
+                  "source_id": "b2a17c2ad4235ea8574d602763a39395",
+                  "inherited": true
+                },
+                "PL": {
+                  "rate": 23.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "PT": {
+                  "rate": 23.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "RO": {
+                  "rate": 21.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                }
+              },
+              "children": [],
+              "total_product_count": 86,
+              "product_count": 86
+            }
+          ],
+          "total_product_count": 130,
+          "product_count": 5
+        },
+        {
+          "category_id": "b2a17c2ad4235ea8574d602763a3e34e",
+          "name": "Σκύλος",
+          "name_en": "Σκύλος",
+          "depth": 1,
+          "hidden": false,
+          "image_url": "https://api.posokanei.gov.gr/images/category/b2a17c2ad4235ea8574d602763a3e34e?v=1779896610",
+          "vat_rates": null,
+          "effective_vat_rates": {
+            "BE": {
+              "rate": 6.0,
+              "source": "Pet Shop",
+              "source_id": "b2a17c2ad4235ea8574d602763a39395",
+              "inherited": true
+            },
+            "BG": {
+              "rate": 0.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "CY": {
+              "rate": 0.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "DE": {
+              "rate": 7.0,
+              "source": "Pet Shop",
+              "source_id": "b2a17c2ad4235ea8574d602763a39395",
+              "inherited": true
+            },
+            "ES": {
+              "rate": 10.0,
+              "source": "Pet Shop",
+              "source_id": "b2a17c2ad4235ea8574d602763a39395",
+              "inherited": true
+            },
+            "FR": {
+              "rate": 20,
+              "source": "Pet Shop",
+              "source_id": "b2a17c2ad4235ea8574d602763a39395",
+              "inherited": true
+            },
+            "GR": {
+              "rate": 24,
+              "source": "Pet Shop",
+              "source_id": "b2a17c2ad4235ea8574d602763a39395",
+              "inherited": true
+            },
+            "IT": {
+              "rate": 22,
+              "source": "Pet Shop",
+              "source_id": "b2a17c2ad4235ea8574d602763a39395",
+              "inherited": true
+            },
+            "PL": {
+              "rate": 23.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "PT": {
+              "rate": 23.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            },
+            "RO": {
+              "rate": 21.0,
+              "source": "Standard rate",
+              "source_id": null,
+              "inherited": true
+            }
+          },
+          "children": [
+            {
+              "category_id": "b2a17c2ad4235ea8574d602763a51981",
+              "name": "Θεραπεία Σκύλων και Σνάκ",
+              "name_en": "Dogs Treat and Snacks",
+              "depth": 2,
+              "hidden": false,
+              "image_url": null,
+              "vat_rates": null,
+              "effective_vat_rates": {
+                "BE": {
+                  "rate": 6.0,
+                  "source": "Pet Shop",
+                  "source_id": "b2a17c2ad4235ea8574d602763a39395",
+                  "inherited": true
+                },
+                "BG": {
+                  "rate": 0.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "CY": {
+                  "rate": 0.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "DE": {
+                  "rate": 7.0,
+                  "source": "Pet Shop",
+                  "source_id": "b2a17c2ad4235ea8574d602763a39395",
+                  "inherited": true
+                },
+                "ES": {
+                  "rate": 10.0,
+                  "source": "Pet Shop",
+                  "source_id": "b2a17c2ad4235ea8574d602763a39395",
+                  "inherited": true
+                },
+                "FR": {
+                  "rate": 20,
+                  "source": "Pet Shop",
+                  "source_id": "b2a17c2ad4235ea8574d602763a39395",
+                  "inherited": true
+                },
+                "GR": {
+                  "rate": 24,
+                  "source": "Pet Shop",
+                  "source_id": "b2a17c2ad4235ea8574d602763a39395",
+                  "inherited": true
+                },
+                "IT": {
+                  "rate": 22,
+                  "source": "Pet Shop",
+                  "source_id": "b2a17c2ad4235ea8574d602763a39395",
+                  "inherited": true
+                },
+                "PL": {
+                  "rate": 23.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "PT": {
+                  "rate": 23.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "RO": {
+                  "rate": 21.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                }
+              },
+              "children": [],
+              "total_product_count": 7,
+              "product_count": 7
+            },
+            {
+              "category_id": "b2b8095a35f246c6ac514eb53a19cafa",
+              "name": "Λιχουδιές και Σνακ για Σκύλους",
+              "name_en": "Treats and Snacks for Dogs",
+              "depth": 2,
+              "hidden": false,
+              "image_url": null,
+              "vat_rates": null,
+              "effective_vat_rates": {
+                "BE": {
+                  "rate": 6.0,
+                  "source": "Pet Shop",
+                  "source_id": "b2a17c2ad4235ea8574d602763a39395",
+                  "inherited": true
+                },
+                "BG": {
+                  "rate": 0.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "CY": {
+                  "rate": 0.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "DE": {
+                  "rate": 7.0,
+                  "source": "Pet Shop",
+                  "source_id": "b2a17c2ad4235ea8574d602763a39395",
+                  "inherited": true
+                },
+                "ES": {
+                  "rate": 10.0,
+                  "source": "Pet Shop",
+                  "source_id": "b2a17c2ad4235ea8574d602763a39395",
+                  "inherited": true
+                },
+                "FR": {
+                  "rate": 20,
+                  "source": "Pet Shop",
+                  "source_id": "b2a17c2ad4235ea8574d602763a39395",
+                  "inherited": true
+                },
+                "GR": {
+                  "rate": 24,
+                  "source": "Pet Shop",
+                  "source_id": "b2a17c2ad4235ea8574d602763a39395",
+                  "inherited": true
+                },
+                "IT": {
+                  "rate": 22,
+                  "source": "Pet Shop",
+                  "source_id": "b2a17c2ad4235ea8574d602763a39395",
+                  "inherited": true
+                },
+                "PL": {
+                  "rate": 23.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "PT": {
+                  "rate": 23.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "RO": {
+                  "rate": 21.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                }
+              },
+              "children": [],
+              "total_product_count": 7,
+              "product_count": 7
+            },
+            {
+              "category_id": "SKzcgxhL6z0JruWQvq1TmS8QTRkqKYIj",
+              "name": "Ξηρά Τροφή για Σκύλους",
+              "name_en": "Dry Dog Food",
+              "depth": 2,
+              "hidden": false,
+              "image_url": null,
+              "vat_rates": null,
+              "effective_vat_rates": {
+                "BE": {
+                  "rate": 6.0,
+                  "source": "Pet Shop",
+                  "source_id": "b2a17c2ad4235ea8574d602763a39395",
+                  "inherited": true
+                },
+                "BG": {
+                  "rate": 0.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "CY": {
+                  "rate": 0.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "DE": {
+                  "rate": 7.0,
+                  "source": "Pet Shop",
+                  "source_id": "b2a17c2ad4235ea8574d602763a39395",
+                  "inherited": true
+                },
+                "ES": {
+                  "rate": 10.0,
+                  "source": "Pet Shop",
+                  "source_id": "b2a17c2ad4235ea8574d602763a39395",
+                  "inherited": true
+                },
+                "FR": {
+                  "rate": 20,
+                  "source": "Pet Shop",
+                  "source_id": "b2a17c2ad4235ea8574d602763a39395",
+                  "inherited": true
+                },
+                "GR": {
+                  "rate": 24,
+                  "source": "Pet Shop",
+                  "source_id": "b2a17c2ad4235ea8574d602763a39395",
+                  "inherited": true
+                },
+                "IT": {
+                  "rate": 22,
+                  "source": "Pet Shop",
+                  "source_id": "b2a17c2ad4235ea8574d602763a39395",
+                  "inherited": true
+                },
+                "PL": {
+                  "rate": 23.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "PT": {
+                  "rate": 23.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "RO": {
+                  "rate": 21.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                }
+              },
+              "children": [],
+              "total_product_count": 42,
+              "product_count": 42
+            },
+            {
+              "category_id": "gD2i3mu9upAb02zBywkjlJbCEt7buZCc",
+              "name": "Υγρή Τροφή για Σκύλους",
+              "name_en": "Wet Dog Food",
+              "depth": 2,
+              "hidden": false,
+              "image_url": null,
+              "vat_rates": null,
+              "effective_vat_rates": {
+                "BE": {
+                  "rate": 6.0,
+                  "source": "Pet Shop",
+                  "source_id": "b2a17c2ad4235ea8574d602763a39395",
+                  "inherited": true
+                },
+                "BG": {
+                  "rate": 0.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "CY": {
+                  "rate": 0.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "DE": {
+                  "rate": 7.0,
+                  "source": "Pet Shop",
+                  "source_id": "b2a17c2ad4235ea8574d602763a39395",
+                  "inherited": true
+                },
+                "ES": {
+                  "rate": 10.0,
+                  "source": "Pet Shop",
+                  "source_id": "b2a17c2ad4235ea8574d602763a39395",
+                  "inherited": true
+                },
+                "FR": {
+                  "rate": 20,
+                  "source": "Pet Shop",
+                  "source_id": "b2a17c2ad4235ea8574d602763a39395",
+                  "inherited": true
+                },
+                "GR": {
+                  "rate": 24,
+                  "source": "Pet Shop",
+                  "source_id": "b2a17c2ad4235ea8574d602763a39395",
+                  "inherited": true
+                },
+                "IT": {
+                  "rate": 22,
+                  "source": "Pet Shop",
+                  "source_id": "b2a17c2ad4235ea8574d602763a39395",
+                  "inherited": true
+                },
+                "PL": {
+                  "rate": 23.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "PT": {
+                  "rate": 23.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                },
+                "RO": {
+                  "rate": 21.0,
+                  "source": "Standard rate",
+                  "source_id": null,
+                  "inherited": true
+                }
+              },
+              "children": [],
+              "total_product_count": 53,
+              "product_count": 53
+            }
+          ],
+          "total_product_count": 113,
+          "product_count": 4
+        }
+      ],
+      "total_product_count": 243,
+      "product_count": 0
+    }
+  ]
+}

@@ -1,0 +1,3010 @@
+{
+  "products": [
+    {
+      "id": "c45fde331f7f4647a4f0839a4f1055e6",
+      "name": "ΑΝΘΕΜΙΑ Μέλι Εισαγωγής 750gr",
+      "brand": "ΑΝΘΕΜΙΑ",
+      "images": [],
+      "category": "Μέλι",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "631a23f2-72e0-44e0-acbc-595da1ccb4f5",
+        "b2a17c2ad4235ea8574d6027636c99fc"
+      ],
+      "subcategory": "Μαρμελάδες / Μέλι / Άλειμμα",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/c45fde331f7f4647a4f0839a4f1055e6?v=6a1fe062486cf108a79a4b5f",
+      "has_image": true,
+      "updated_at": "2026-10-11T04:06:22.976000",
+      "image_version": "6a1fe062486cf108a79a4b5f",
+      "unit": "kg",
+      "unit_quantity": 0.75,
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "price_drop_start": null,
+      "price_drop_end": null,
+      "price_drop_category": null,
+      "price_drop_title": null,
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 3.49,
+        "max_price": 3.49,
+        "avg_price": 3.49,
+        "retailer_count": 1,
+        "min_unit_price": 4.65,
+        "last_computed": null
+      },
+      "retailers": [
+        "mymarket"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "mymarket",
+          "retailer_display_name": "My Market",
+          "retailer_name": "",
+          "price": 3.49,
+          "price_normalized": 4.65,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    },
+    {
+      "id": "acaaec80c6004d95a8dad6a0a97cf199",
+      "name": "ΑΝΘΟΣ Μέλι Ανθέων 900g",
+      "brand": "ΑΝΘΟΣ ",
+      "images": [],
+      "category": "Μέλι",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "631a23f2-72e0-44e0-acbc-595da1ccb4f5",
+        "b2a17c2ad4235ea8574d6027636c99fc"
+      ],
+      "subcategory": "Μαρμελάδες / Μέλι / Άλειμμα",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/acaaec80c6004d95a8dad6a0a97cf199?v=69fa4ddbdc4b02f7b4858c98",
+      "has_image": true,
+      "updated_at": "2026-10-11T04:31:48.771000",
+      "image_version": "69fa4ddbdc4b02f7b4858c98",
+      "unit": "kg",
+      "unit_quantity": 0.9,
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "price_drop_start": null,
+      "price_drop_end": null,
+      "price_drop_category": null,
+      "price_drop_title": null,
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 4.4,
+        "max_price": 4.4,
+        "avg_price": 4.4,
+        "retailer_count": 1,
+        "min_unit_price": 4.89,
+        "last_computed": null
+      },
+      "retailers": [
+        "sklavenitis"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "sklavenitis",
+          "retailer_display_name": "Σκλαβενίτης",
+          "retailer_name": "",
+          "price": 4.4,
+          "price_normalized": 4.89,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    },
+    {
+      "id": "f2169cf8563740e19c0ae902b898bc37",
+      "name": "ΜΕΛΗΜΑ Μέλι Ανθέων Σε Βάζο 750gr",
+      "brand": "Μέλημα",
+      "images": [],
+      "category": "Μέλι",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "631a23f2-72e0-44e0-acbc-595da1ccb4f5",
+        "b2a17c2ad4235ea8574d6027636c99fc"
+      ],
+      "subcategory": "Μαρμελάδες / Μέλι / Άλειμμα",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/f2169cf8563740e19c0ae902b898bc37?v=69ce801872191242fc3b21da",
+      "has_image": true,
+      "updated_at": "2026-10-11T03:19:18.820000",
+      "image_version": "69ce801872191242fc3b21da",
+      "unit": "kg",
+      "unit_quantity": 0.75,
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "price_drop_start": null,
+      "price_drop_end": null,
+      "price_drop_category": null,
+      "price_drop_title": null,
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 3.7,
+        "max_price": 3.7,
+        "avg_price": 3.7,
+        "retailer_count": 1,
+        "min_unit_price": 4.93,
+        "last_computed": null
+      },
+      "retailers": [
+        "galaxias"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "galaxias",
+          "retailer_display_name": "Γαλαξίας",
+          "retailer_name": "",
+          "price": 3.7,
+          "price_normalized": 4.93,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    },
+    {
+      "id": "9ffcd2a772ca4220ad76c54a9031d863",
+      "name": "ΑΜΕΛΙ Μέλι Ανθέων 900g",
+      "brand": "Αμελί",
+      "images": [],
+      "category": "Μέλι",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "631a23f2-72e0-44e0-acbc-595da1ccb4f5",
+        "b2a17c2ad4235ea8574d6027636c99fc"
+      ],
+      "subcategory": "Μαρμελάδες / Μέλι / Άλειμμα",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/9ffcd2a772ca4220ad76c54a9031d863?v=6a0efb664418e4b3b6cba7c4",
+      "has_image": true,
+      "updated_at": "2026-10-11T03:19:04.783000",
+      "image_version": "6a0efb664418e4b3b6cba7c4",
+      "unit": "kg",
+      "unit_quantity": 0.9,
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "price_drop_start": null,
+      "price_drop_end": null,
+      "price_drop_category": null,
+      "price_drop_title": null,
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 4.48,
+        "max_price": 4.48,
+        "avg_price": 4.48,
+        "retailer_count": 1,
+        "min_unit_price": 4.98,
+        "last_computed": null
+      },
+      "retailers": [
+        "galaxias"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "galaxias",
+          "retailer_display_name": "Γαλαξίας",
+          "retailer_name": "",
+          "price": 4.48,
+          "price_normalized": 4.98,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    },
+    {
+      "id": "44f57a8d556f49698d4dea5999b57155",
+      "name": "ΙΟΝ Nucrema Πραλίνα Φουντουκιού 1kg",
+      "brand": "nucrema",
+      "images": [],
+      "category": "Πραλίνα Φουντουκιού",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "631a23f2-72e0-44e0-acbc-595da1ccb4f5",
+        "d29d14041902468e9fe29f53073c3798",
+        "5284bde4a980445ba8707de755c7bf42"
+      ],
+      "subcategory": "Πραλίνα",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/44f57a8d556f49698d4dea5999b57155?v=69ce66cc72191242fc3b1eb6",
+      "has_image": true,
+      "updated_at": "2026-10-11T06:16:33.721000",
+      "image_version": "69ce66cc72191242fc3b1eb6",
+      "unit": "kg",
+      "unit_quantity": 1.0,
+      "private_label": false,
+      "price_drop": true,
+      "price_drop_percentage": 5.0,
+      "price_drop_from": null,
+      "price_drop_to": 9.0,
+      "price_drop_start": "2026-08-31",
+      "price_drop_end": "2026-10-31",
+      "price_drop_category": "Είδη πρωινού (καφές, δημητριακά κα)",
+      "price_drop_title": "ΙΟΝ NUCREMA ΠΡΑΛΙΝΑ ΦΟΥΝΤΟΥΚΙΟΥ ΜΕ ΚΑΚΑΟ 1Κ",
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 4.98,
+        "max_price": 5.78,
+        "avg_price": 5.37,
+        "retailer_count": 7,
+        "min_unit_price": 4.98,
+        "last_computed": null
+      },
+      "retailers": [
+        "ab_vasilopoulos",
+        "galaxias",
+        "halkiadakis",
+        "masoutis",
+        "mymarket",
+        "sklavenitis",
+        "synka"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "ab_vasilopoulos",
+          "retailer_display_name": "ΑΒ Βασιλόπουλος",
+          "retailer_name": "",
+          "price": 4.98,
+          "price_normalized": 4.98,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "sklavenitis",
+          "retailer_display_name": "Σκλαβενίτης",
+          "retailer_name": "",
+          "price": 5.02,
+          "price_normalized": 5.02,
+          "is_discount": true,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "halkiadakis",
+          "retailer_display_name": "Χαλκιαδάκης",
+          "retailer_name": "",
+          "price": 5.25,
+          "price_normalized": 5.25,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "mymarket",
+          "retailer_display_name": "My Market",
+          "retailer_name": "",
+          "price": 5.34,
+          "price_normalized": 5.34,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "galaxias",
+          "retailer_display_name": "Γαλαξίας",
+          "retailer_name": "",
+          "price": 5.51,
+          "price_normalized": 5.51,
+          "is_discount": true,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "masoutis",
+          "retailer_display_name": "Μασούτης",
+          "retailer_name": "",
+          "price": 5.74,
+          "price_normalized": 5.74,
+          "is_discount": true,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "synka",
+          "retailer_display_name": "Synka",
+          "retailer_name": "",
+          "price": 5.78,
+          "price_normalized": 5.78,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    },
+    {
+      "id": "7356f8b9f1d2456a843a5c8871e5538b",
+      "name": "BONJOUR Μερμελάδα Φράουλα 20g",
+      "brand": "Bonjour",
+      "images": [],
+      "category": "Μαρμελάδα",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "631a23f2-72e0-44e0-acbc-595da1ccb4f5",
+        "HsRwDJ2CGeZGCRrjevAGCT7OODfuyj4y"
+      ],
+      "subcategory": "Μαρμελάδες / Μέλι / Άλειμμα",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/7356f8b9f1d2456a843a5c8871e5538b?v=69fa026cdc4b02f7b4858bbe",
+      "has_image": true,
+      "updated_at": "2026-10-11T04:23:16.978000",
+      "image_version": "69fa026cdc4b02f7b4858bbe",
+      "unit": "kg",
+      "unit_quantity": 0.02,
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "price_drop_start": null,
+      "price_drop_end": null,
+      "price_drop_category": null,
+      "price_drop_title": null,
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 0.1,
+        "max_price": 0.1,
+        "avg_price": 0.1,
+        "retailer_count": 1,
+        "min_unit_price": 5.0,
+        "last_computed": null
+      },
+      "retailers": [
+        "sklavenitis"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "sklavenitis",
+          "retailer_display_name": "Σκλαβενίτης",
+          "retailer_name": "",
+          "price": 0.1,
+          "price_normalized": 5.0,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    },
+    {
+      "id": "c2942396dc324af69554f5e585e0687f",
+      "name": "BONJOUR Μαρμελάδα Βερίκοκο 20g",
+      "brand": "Bonjour",
+      "images": [],
+      "category": "Μαρμελάδα",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "631a23f2-72e0-44e0-acbc-595da1ccb4f5",
+        "HsRwDJ2CGeZGCRrjevAGCT7OODfuyj4y"
+      ],
+      "subcategory": "Μαρμελάδες / Μέλι / Άλειμμα",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/c2942396dc324af69554f5e585e0687f?v=69fa026cdc4b02f7b4858bbc",
+      "has_image": true,
+      "updated_at": "2026-10-11T04:23:16.498000",
+      "image_version": "69fa026cdc4b02f7b4858bbc",
+      "unit": "kg",
+      "unit_quantity": 0.02,
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "price_drop_start": null,
+      "price_drop_end": null,
+      "price_drop_category": null,
+      "price_drop_title": null,
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 0.1,
+        "max_price": 0.1,
+        "avg_price": 0.1,
+        "retailer_count": 1,
+        "min_unit_price": 5.0,
+        "last_computed": null
+      },
+      "retailers": [
+        "sklavenitis"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "sklavenitis",
+          "retailer_display_name": "Σκλαβενίτης",
+          "retailer_name": "",
+          "price": 0.1,
+          "price_normalized": 5.0,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    },
+    {
+      "id": "34a9822644c34a6f8cd253bd01787eb7",
+      "name": "ΙΟΝ Nucrema Πραλίνα Φουντουκιού 580g",
+      "brand": "nucrema",
+      "images": [],
+      "category": "Πραλίνα Φουντουκιού",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "631a23f2-72e0-44e0-acbc-595da1ccb4f5",
+        "d29d14041902468e9fe29f53073c3798",
+        "5284bde4a980445ba8707de755c7bf42"
+      ],
+      "subcategory": "Πραλίνα",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/34a9822644c34a6f8cd253bd01787eb7?v=69daa8d7ee13ba2de98f8e4c",
+      "has_image": true,
+      "updated_at": "2026-10-11T06:16:33.692000",
+      "image_version": "69daa8d7ee13ba2de98f8e4c",
+      "unit": "kg",
+      "unit_quantity": 0.58,
+      "private_label": false,
+      "price_drop": true,
+      "price_drop_percentage": 5.0,
+      "price_drop_from": null,
+      "price_drop_to": 6.0,
+      "price_drop_start": "2026-08-31",
+      "price_drop_end": "2026-10-31",
+      "price_drop_category": "Είδη πρωινού (καφές, δημητριακά κα)",
+      "price_drop_title": "ΙΟΝ NUCREMA ΠΡΑΛΙΝΑ ΦΟΥΝΤΟΥΚΙΟΥ ΜΕ ΚΑΚΑΟ 580g",
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 3.12,
+        "max_price": 3.76,
+        "avg_price": 3.54,
+        "retailer_count": 7,
+        "min_unit_price": 5.38,
+        "last_computed": null
+      },
+      "retailers": [
+        "ab_vasilopoulos",
+        "halkiadakis",
+        "masoutis",
+        "mymarket",
+        "galaxias",
+        "bazaar",
+        "synka"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "halkiadakis",
+          "retailer_display_name": "Χαλκιαδάκης",
+          "retailer_name": "",
+          "price": 3.12,
+          "price_normalized": 5.38,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "bazaar",
+          "retailer_display_name": "Bazaar",
+          "retailer_name": "",
+          "price": 3.55,
+          "price_normalized": 6.12,
+          "is_discount": true,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "ab_vasilopoulos",
+          "retailer_display_name": "ΑΒ Βασιλόπουλος",
+          "retailer_name": "",
+          "price": 3.58,
+          "price_normalized": 6.17,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "synka",
+          "retailer_display_name": "Synka",
+          "retailer_name": "",
+          "price": 3.58,
+          "price_normalized": 6.17,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "masoutis",
+          "retailer_display_name": "Μασούτης",
+          "retailer_name": "",
+          "price": 3.58,
+          "price_normalized": 6.17,
+          "is_discount": true,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "galaxias",
+          "retailer_display_name": "Γαλαξίας",
+          "retailer_name": "",
+          "price": 3.58,
+          "price_normalized": 6.17,
+          "is_discount": true,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "mymarket",
+          "retailer_display_name": "My Market",
+          "retailer_name": "",
+          "price": 3.76,
+          "price_normalized": 6.48,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    },
+    {
+      "id": "becd0006b3f942bbb4d1650351787f7e",
+      "name": "ΑΜΕΛΙ Mέλι Ανθέων του Βουνού 720g",
+      "brand": "Αμελί",
+      "images": [],
+      "category": "Μέλι",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "631a23f2-72e0-44e0-acbc-595da1ccb4f5",
+        "b2a17c2ad4235ea8574d6027636c99fc"
+      ],
+      "subcategory": "Μαρμελάδες / Μέλι / Άλειμμα",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/becd0006b3f942bbb4d1650351787f7e?v=69fda8d1dc4b02f7b4858fcb",
+      "has_image": true,
+      "updated_at": "2026-10-11T04:06:18.435000",
+      "image_version": "69fda8d1dc4b02f7b4858fcb",
+      "unit": "kg",
+      "unit_quantity": 0.72,
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "price_drop_start": null,
+      "price_drop_end": null,
+      "price_drop_category": null,
+      "price_drop_title": null,
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 3.98,
+        "max_price": 3.98,
+        "avg_price": 3.98,
+        "retailer_count": 1,
+        "min_unit_price": 5.53,
+        "last_computed": null
+      },
+      "retailers": [
+        "mymarket"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "mymarket",
+          "retailer_display_name": "My Market",
+          "retailer_name": "",
+          "price": 3.98,
+          "price_normalized": 5.53,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    },
+    {
+      "id": "25695c6e9d3c43a39c615815669afd09",
+      "name": "SISINNI Buono Κρέμα Φουντούκι με Γάλα Χωρίς Γλουτένη 400g",
+      "brand": "SISINNI",
+      "images": [],
+      "category": "Πραλίνα Φουντουκιού",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "631a23f2-72e0-44e0-acbc-595da1ccb4f5",
+        "d29d14041902468e9fe29f53073c3798",
+        "5284bde4a980445ba8707de755c7bf42"
+      ],
+      "subcategory": "Πραλίνα",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/25695c6e9d3c43a39c615815669afd09?v=69fa4e1adc4b02f7b4858ced",
+      "has_image": true,
+      "updated_at": "2026-10-11T04:22:36.992000",
+      "image_version": "69fa4e1adc4b02f7b4858ced",
+      "unit": "kg",
+      "unit_quantity": 0.4,
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "price_drop_start": null,
+      "price_drop_end": null,
+      "price_drop_category": null,
+      "price_drop_title": null,
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 2.25,
+        "max_price": 2.43,
+        "avg_price": 2.37,
+        "retailer_count": 3,
+        "min_unit_price": 5.62,
+        "last_computed": null
+      },
+      "retailers": [
+        "sklavenitis",
+        "market_in",
+        "mymarket",
+        "halkiadakis"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "halkiadakis",
+          "retailer_display_name": "Χαλκιαδάκης",
+          "retailer_name": "",
+          "price": 2.25,
+          "price_normalized": 5.62,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "sklavenitis",
+          "retailer_display_name": "Σκλαβενίτης",
+          "retailer_name": "",
+          "price": 2.42,
+          "price_normalized": 6.05,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "mymarket",
+          "retailer_display_name": "My Market",
+          "retailer_name": "",
+          "price": 2.43,
+          "price_normalized": 6.08,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    },
+    {
+      "id": "fced2e99ff9042cca53413fa6f5c04c0",
+      "name": "ΑΜΒΡΟΣΙΑ Μέλι 2x900g",
+      "brand": "ΑΜΒΡΟΣΙΑ ",
+      "images": [],
+      "category": "Μέλι",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "631a23f2-72e0-44e0-acbc-595da1ccb4f5",
+        "b2a17c2ad4235ea8574d6027636c99fc"
+      ],
+      "subcategory": "Μαρμελάδες / Μέλι / Άλειμμα",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/fced2e99ff9042cca53413fa6f5c04c0?v=69fded1adc4b02f7b485907c",
+      "has_image": true,
+      "updated_at": "2026-10-11T04:37:42.733000",
+      "image_version": "69fded1adc4b02f7b485907c",
+      "unit": "kg",
+      "unit_quantity": 1.8,
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "price_drop_start": null,
+      "price_drop_end": null,
+      "price_drop_category": null,
+      "price_drop_title": null,
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 10.45,
+        "max_price": 10.45,
+        "avg_price": 10.45,
+        "retailer_count": 1,
+        "min_unit_price": 5.81,
+        "last_computed": null
+      },
+      "retailers": [
+        "sklavenitis"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "sklavenitis",
+          "retailer_display_name": "Σκλαβενίτης",
+          "retailer_name": "",
+          "price": 10.45,
+          "price_normalized": 5.81,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    },
+    {
+      "id": "f57d88aa56584b54abddb2715366687c",
+      "name": "ΙΣΤΟΡΙΕΣ ΜΕΛΙΟΥ Μέλι Ανθέων & Κωνοφόρων 920g",
+      "brand": "ΙΣΤΟΡΙΕΣ ΜΕΛΙΟΥ",
+      "images": [],
+      "category": "Μέλι",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "631a23f2-72e0-44e0-acbc-595da1ccb4f5",
+        "b2a17c2ad4235ea8574d6027636c99fc"
+      ],
+      "subcategory": "Μαρμελάδες / Μέλι / Άλειμμα",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/f57d88aa56584b54abddb2715366687c?v=6a1fe0ba486cf108a79a4b60",
+      "has_image": true,
+      "updated_at": "2026-10-11T04:12:04.810000",
+      "image_version": "6a1fe0ba486cf108a79a4b60",
+      "unit": "kg",
+      "unit_quantity": 0.92,
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "price_drop_start": null,
+      "price_drop_end": null,
+      "price_drop_category": null,
+      "price_drop_title": null,
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 5.52,
+        "max_price": 5.99,
+        "avg_price": 5.75,
+        "retailer_count": 2,
+        "min_unit_price": 6.0,
+        "last_computed": null
+      },
+      "retailers": [
+        "mymarket",
+        "halkiadakis"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "mymarket",
+          "retailer_display_name": "My Market",
+          "retailer_name": "",
+          "price": 5.52,
+          "price_normalized": 6.0,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "halkiadakis",
+          "retailer_display_name": "Χαλκιαδάκης",
+          "retailer_name": "",
+          "price": 5.99,
+          "price_normalized": 6.51,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    },
+    {
+      "id": "e8869da7fd44408197fa728dbefe5528",
+      "name": "SISINNI Vegan Κρέμα Κακάο με Φουντούκι Χωρίς Γλουτένη 400g",
+      "brand": "SISINNI",
+      "images": [],
+      "category": "Πραλίνα Φουντουκιού Vegan",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "631a23f2-72e0-44e0-acbc-595da1ccb4f5",
+        "d29d14041902468e9fe29f53073c3798",
+        "9935bbb71eed4185bafaaefbb184aa21"
+      ],
+      "subcategory": "Πραλίνα",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/e8869da7fd44408197fa728dbefe5528?v=69fa4e1adc4b02f7b4858cec",
+      "has_image": true,
+      "updated_at": "2026-10-11T04:22:36.972000",
+      "image_version": "69fa4e1adc4b02f7b4858cec",
+      "unit": "kg",
+      "unit_quantity": 0.4,
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "price_drop_start": null,
+      "price_drop_end": null,
+      "price_drop_category": null,
+      "price_drop_title": null,
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 2.42,
+        "max_price": 2.75,
+        "avg_price": 2.62,
+        "retailer_count": 3,
+        "min_unit_price": 6.05,
+        "last_computed": null
+      },
+      "retailers": [
+        "sklavenitis",
+        "market_in",
+        "mymarket",
+        "halkiadakis"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "sklavenitis",
+          "retailer_display_name": "Σκλαβενίτης",
+          "retailer_name": "",
+          "price": 2.42,
+          "price_normalized": 6.05,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "halkiadakis",
+          "retailer_display_name": "Χαλκιαδάκης",
+          "retailer_name": "",
+          "price": 2.7,
+          "price_normalized": 6.75,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "mymarket",
+          "retailer_display_name": "My Market",
+          "retailer_name": "",
+          "price": 2.75,
+          "price_normalized": 6.88,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    },
+    {
+      "id": "3d09f3e4c6664e82ac19b92178a88c1a",
+      "name": "ΙΟΝ Nucrema Πραλίνα Φουντουκιού 380g",
+      "brand": "nucrema",
+      "images": [],
+      "category": "Πραλίνα Φουντουκιού",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "631a23f2-72e0-44e0-acbc-595da1ccb4f5",
+        "d29d14041902468e9fe29f53073c3798",
+        "5284bde4a980445ba8707de755c7bf42"
+      ],
+      "subcategory": "Πραλίνα",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/3d09f3e4c6664e82ac19b92178a88c1a?v=69ce66cc72191242fc3b1eb4",
+      "has_image": true,
+      "updated_at": "2026-10-11T06:16:33.618000",
+      "image_version": "69ce66cc72191242fc3b1eb4",
+      "unit": "kg",
+      "unit_quantity": 0.38,
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "price_drop_start": null,
+      "price_drop_end": null,
+      "price_drop_category": null,
+      "price_drop_title": null,
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 2.3,
+        "max_price": 3.38,
+        "avg_price": 3.01,
+        "retailer_count": 9,
+        "min_unit_price": 6.05,
+        "last_computed": null
+      },
+      "retailers": [
+        "ab_vasilopoulos",
+        "alphamega",
+        "galaxias",
+        "halkiadakis",
+        "masoutis",
+        "mymarket",
+        "sklavenitis",
+        "lidl",
+        "bazaar",
+        "synka"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "lidl",
+          "retailer_display_name": "Lidl",
+          "retailer_name": "",
+          "price": 2.3,
+          "price_normalized": 6.05,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "sklavenitis",
+          "retailer_display_name": "Σκλαβενίτης",
+          "retailer_name": "",
+          "price": 2.3,
+          "price_normalized": 6.05,
+          "is_discount": true,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "halkiadakis",
+          "retailer_display_name": "Χαλκιαδάκης",
+          "retailer_name": "",
+          "price": 3.05,
+          "price_normalized": 8.03,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "galaxias",
+          "retailer_display_name": "Γαλαξίας",
+          "retailer_name": "",
+          "price": 3.1,
+          "price_normalized": 8.16,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "mymarket",
+          "retailer_display_name": "My Market",
+          "retailer_name": "",
+          "price": 3.24,
+          "price_normalized": 8.53,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "synka",
+          "retailer_display_name": "Synka",
+          "retailer_name": "",
+          "price": 3.25,
+          "price_normalized": 8.55,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "bazaar",
+          "retailer_display_name": "Bazaar",
+          "retailer_name": "",
+          "price": 3.25,
+          "price_normalized": 8.55,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "masoutis",
+          "retailer_display_name": "Μασούτης",
+          "retailer_name": "",
+          "price": 3.25,
+          "price_normalized": 8.55,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "ab_vasilopoulos",
+          "retailer_display_name": "ΑΒ Βασιλόπουλος",
+          "retailer_name": "",
+          "price": 3.38,
+          "price_normalized": 8.89,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "CY",
+        "GR"
+      ],
+      "is_international": true
+    },
+    {
+      "id": "c403853dcef54edf839b44598485de54",
+      "name": "ΙΟΝ Nucrema Δίχρωμη Πραλίνα Φουντουκιού 380g",
+      "brand": "nucrema",
+      "images": [],
+      "category": "Δίχρωμη Πραλίνα",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "631a23f2-72e0-44e0-acbc-595da1ccb4f5",
+        "d29d14041902468e9fe29f53073c3798",
+        "d7834dabe0ba45488808b58fc1567e64"
+      ],
+      "subcategory": "Πραλίνα",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/c403853dcef54edf839b44598485de54?v=69ce66cc72191242fc3b1eb5",
+      "has_image": true,
+      "updated_at": "2026-10-11T06:16:33.657000",
+      "image_version": "69ce66cc72191242fc3b1eb5",
+      "unit": "kg",
+      "unit_quantity": 0.38,
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "price_drop_start": null,
+      "price_drop_end": null,
+      "price_drop_category": null,
+      "price_drop_title": null,
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 2.3,
+        "max_price": 3.38,
+        "avg_price": 3.01,
+        "retailer_count": 9,
+        "min_unit_price": 6.05,
+        "last_computed": null
+      },
+      "retailers": [
+        "ab_vasilopoulos",
+        "galaxias",
+        "halkiadakis",
+        "masoutis",
+        "mymarket",
+        "sklavenitis",
+        "bazaar",
+        "synka"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "lidl",
+          "retailer_display_name": "Lidl",
+          "retailer_name": "",
+          "price": 2.3,
+          "price_normalized": 6.05,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "sklavenitis",
+          "retailer_display_name": "Σκλαβενίτης",
+          "retailer_name": "",
+          "price": 2.3,
+          "price_normalized": 6.05,
+          "is_discount": true,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "halkiadakis",
+          "retailer_display_name": "Χαλκιαδάκης",
+          "retailer_name": "",
+          "price": 3.05,
+          "price_normalized": 8.03,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "galaxias",
+          "retailer_display_name": "Γαλαξίας",
+          "retailer_name": "",
+          "price": 3.1,
+          "price_normalized": 8.16,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "mymarket",
+          "retailer_display_name": "My Market",
+          "retailer_name": "",
+          "price": 3.24,
+          "price_normalized": 8.53,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "synka",
+          "retailer_display_name": "Synka",
+          "retailer_name": "",
+          "price": 3.25,
+          "price_normalized": 8.55,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "bazaar",
+          "retailer_display_name": "Bazaar",
+          "retailer_name": "",
+          "price": 3.25,
+          "price_normalized": 8.55,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "masoutis",
+          "retailer_display_name": "Μασούτης",
+          "retailer_name": "",
+          "price": 3.25,
+          "price_normalized": 8.55,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "ab_vasilopoulos",
+          "retailer_display_name": "ΑΒ Βασιλόπουλος",
+          "retailer_name": "",
+          "price": 3.38,
+          "price_normalized": 8.89,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    },
+    {
+      "id": "3a8f747d8a03455498b5ddee43021fce",
+      "name": "ΜΕΛΙΤΤΑ Μέλι Ανθέων 900g ",
+      "brand": "ΜΕΛΙΤΤΑ",
+      "images": [],
+      "category": "Μέλι",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "631a23f2-72e0-44e0-acbc-595da1ccb4f5",
+        "b2a17c2ad4235ea8574d6027636c99fc"
+      ],
+      "subcategory": "Μαρμελάδες / Μέλι / Άλειμμα",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/3a8f747d8a03455498b5ddee43021fce?v=69d91f89ee13ba2de98f89bc",
+      "has_image": true,
+      "updated_at": "2026-10-11T05:59:45.762000",
+      "image_version": "69d91f89ee13ba2de98f89bc",
+      "unit": "kg",
+      "unit_quantity": 0.9,
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "price_drop_start": null,
+      "price_drop_end": null,
+      "price_drop_category": null,
+      "price_drop_title": null,
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 5.48,
+        "max_price": 5.59,
+        "avg_price": 5.54,
+        "retailer_count": 2,
+        "min_unit_price": 6.09,
+        "last_computed": null
+      },
+      "retailers": [
+        "ab_vasilopoulos",
+        "masoutis"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "ab_vasilopoulos",
+          "retailer_display_name": "ΑΒ Βασιλόπουλος",
+          "retailer_name": "",
+          "price": 5.48,
+          "price_normalized": 6.09,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "masoutis",
+          "retailer_display_name": "Μασούτης",
+          "retailer_name": "",
+          "price": 5.59,
+          "price_normalized": 6.21,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    },
+    {
+      "id": "14d9059ecd494a9da92c5ab27ba2ce22",
+      "name": "ΑΓΡΟΚΤΗΜΑ Μέλι 1kg",
+      "brand": "Αγρόκτημα",
+      "images": [],
+      "category": "Μέλι",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "631a23f2-72e0-44e0-acbc-595da1ccb4f5",
+        "b2a17c2ad4235ea8574d6027636c99fc"
+      ],
+      "subcategory": "Μαρμελάδες / Μέλι / Άλειμμα",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/14d9059ecd494a9da92c5ab27ba2ce22?v=6a1ff89a486cf108a79a4bc3",
+      "has_image": true,
+      "updated_at": "2026-10-11T04:49:07.412000",
+      "image_version": "6a1ff89a486cf108a79a4bc3",
+      "unit": "kg",
+      "unit_quantity": 1.0,
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "price_drop_start": null,
+      "price_drop_end": null,
+      "price_drop_category": null,
+      "price_drop_title": null,
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 6.15,
+        "max_price": 6.15,
+        "avg_price": 6.15,
+        "retailer_count": 1,
+        "min_unit_price": 6.15,
+        "last_computed": null
+      },
+      "retailers": [
+        "bazaar"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "bazaar",
+          "retailer_display_name": "Bazaar",
+          "retailer_name": "",
+          "price": 6.15,
+          "price_normalized": 6.15,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    },
+    {
+      "id": "86ebdcab826846f3910195c605997fc4",
+      "name": "MELISSIMO Μέλι Ανθέων 900g",
+      "brand": "MELISSIMO ",
+      "images": [],
+      "category": "Μέλι",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "631a23f2-72e0-44e0-acbc-595da1ccb4f5",
+        "b2a17c2ad4235ea8574d6027636c99fc"
+      ],
+      "subcategory": "Μαρμελάδες / Μέλι / Άλειμμα",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/86ebdcab826846f3910195c605997fc4?v=69fa4dbedc4b02f7b4858c93",
+      "has_image": true,
+      "updated_at": "2026-10-11T04:20:32.502000",
+      "image_version": "69fa4dbedc4b02f7b4858c93",
+      "unit": "kg",
+      "unit_quantity": 0.9,
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "price_drop_start": null,
+      "price_drop_end": null,
+      "price_drop_category": null,
+      "price_drop_title": null,
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 5.74,
+        "max_price": 5.74,
+        "avg_price": 5.74,
+        "retailer_count": 1,
+        "min_unit_price": 6.38,
+        "last_computed": null
+      },
+      "retailers": [
+        "sklavenitis"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "sklavenitis",
+          "retailer_display_name": "Σκλαβενίτης",
+          "retailer_name": "",
+          "price": 5.74,
+          "price_normalized": 6.38,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    },
+    {
+      "id": "94f070845ef347238e714b4991f009f4",
+      "name": "ΑΝΘΕΜΙΑ Μέλι Εισαγωγής 450gr",
+      "brand": "ΑΝΘΕΜΙΑ",
+      "images": [],
+      "category": "Μέλι",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "631a23f2-72e0-44e0-acbc-595da1ccb4f5",
+        "b2a17c2ad4235ea8574d6027636c99fc"
+      ],
+      "subcategory": "Μαρμελάδες / Μέλι / Άλειμμα",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/94f070845ef347238e714b4991f009f4?v=6a1fe017486cf108a79a4b5c",
+      "has_image": true,
+      "updated_at": "2026-10-11T04:06:22.987000",
+      "image_version": "6a1fe017486cf108a79a4b5c",
+      "unit": "kg",
+      "unit_quantity": 0.45,
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "price_drop_start": null,
+      "price_drop_end": null,
+      "price_drop_category": null,
+      "price_drop_title": null,
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 2.87,
+        "max_price": 2.87,
+        "avg_price": 2.87,
+        "retailer_count": 1,
+        "min_unit_price": 6.38,
+        "last_computed": null
+      },
+      "retailers": [
+        "mymarket"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "mymarket",
+          "retailer_display_name": "My Market",
+          "retailer_name": "",
+          "price": 2.87,
+          "price_normalized": 6.38,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    },
+    {
+      "id": "d83974d2285a4145b6c12d57e3799c9a",
+      "name": "ΜΕΛΗΜΑ Μέλι Ανθέων 450g",
+      "brand": "Μέλημα",
+      "images": [],
+      "category": "Μέλι",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "631a23f2-72e0-44e0-acbc-595da1ccb4f5",
+        "b2a17c2ad4235ea8574d6027636c99fc"
+      ],
+      "subcategory": "Μαρμελάδες / Μέλι / Άλειμμα",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/d83974d2285a4145b6c12d57e3799c9a?v=69fdf22fdc4b02f7b48590d4",
+      "has_image": true,
+      "updated_at": "2026-10-11T03:19:18.807000",
+      "image_version": "69fdf22fdc4b02f7b48590d4",
+      "unit": "kg",
+      "unit_quantity": 0.45,
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "price_drop_start": null,
+      "price_drop_end": null,
+      "price_drop_category": null,
+      "price_drop_title": null,
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 2.9,
+        "max_price": 2.9,
+        "avg_price": 2.9,
+        "retailer_count": 1,
+        "min_unit_price": 6.44,
+        "last_computed": null
+      },
+      "retailers": [
+        "galaxias"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "galaxias",
+          "retailer_display_name": "Γαλαξίας",
+          "retailer_name": "",
+          "price": 2.9,
+          "price_normalized": 6.44,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    },
+    {
+      "id": "61456776fa0340929a3059a815bd08d1",
+      "name": "ΡΟΔΑΝΘΗ Ελληνικό Μέλι 900g",
+      "brand": "ΡΟΔΑΝΘΗ",
+      "images": [],
+      "category": "Μέλι",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "631a23f2-72e0-44e0-acbc-595da1ccb4f5",
+        "b2a17c2ad4235ea8574d6027636c99fc"
+      ],
+      "subcategory": "Μαρμελάδες / Μέλι / Άλειμμα",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/61456776fa0340929a3059a815bd08d1?v=69fa4ddbdc4b02f7b4858c99",
+      "has_image": true,
+      "updated_at": "2026-10-11T04:31:48.759000",
+      "image_version": "69fa4ddbdc4b02f7b4858c99",
+      "unit": "kg",
+      "unit_quantity": 0.9,
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "price_drop_start": null,
+      "price_drop_end": null,
+      "price_drop_category": null,
+      "price_drop_title": null,
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 5.96,
+        "max_price": 5.96,
+        "avg_price": 5.96,
+        "retailer_count": 1,
+        "min_unit_price": 6.62,
+        "last_computed": null
+      },
+      "retailers": [
+        "sklavenitis"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "sklavenitis",
+          "retailer_display_name": "Σκλαβενίτης",
+          "retailer_name": "",
+          "price": 5.96,
+          "price_normalized": 6.62,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    },
+    {
+      "id": "0c6f2498099f483880af78cd3a5b7f35",
+      "name": "ΤΟ ΜΕΛΙ ΜΑΣ Μέλι Ελληνικό 920g",
+      "brand": "ΤΟ ΜΕΛΙ ΜΑΣ ",
+      "images": [],
+      "category": "Μέλι",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "631a23f2-72e0-44e0-acbc-595da1ccb4f5",
+        "b2a17c2ad4235ea8574d6027636c99fc"
+      ],
+      "subcategory": "Μαρμελάδες / Μέλι / Άλειμμα",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/0c6f2498099f483880af78cd3a5b7f35?v=69fdede6dc4b02f7b4859082",
+      "has_image": true,
+      "updated_at": "2026-10-11T04:06:23.147000",
+      "image_version": "69fdede6dc4b02f7b4859082",
+      "unit": "kg",
+      "unit_quantity": 0.92,
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "price_drop_start": null,
+      "price_drop_end": null,
+      "price_drop_category": null,
+      "price_drop_title": null,
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 6.33,
+        "max_price": 6.33,
+        "avg_price": 6.33,
+        "retailer_count": 1,
+        "min_unit_price": 6.88,
+        "last_computed": null
+      },
+      "retailers": [
+        "mymarket"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "mymarket",
+          "retailer_display_name": "My Market",
+          "retailer_name": "",
+          "price": 6.33,
+          "price_normalized": 6.88,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    },
+    {
+      "id": "0c08178021734d11920d1f128a368b0d",
+      "name": "ΟΙΚΟΓΕΝΕΙΑ ΧΑΛΒΑΤΖΗ Μαρμελάδα Φράουλα 680g",
+      "brand": "ΟΙΚΟΓΕΝΕΙΑ ΧΑΛΒΑΤΖΗ",
+      "images": [],
+      "category": "Μαρμελάδα",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "631a23f2-72e0-44e0-acbc-595da1ccb4f5",
+        "HsRwDJ2CGeZGCRrjevAGCT7OODfuyj4y"
+      ],
+      "subcategory": "Μαρμελάδες / Μέλι / Άλειμμα",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/0c08178021734d11920d1f128a368b0d?v=69f88ad3dc4b02f7b485843a",
+      "has_image": true,
+      "updated_at": "2026-10-11T04:30:44.504000",
+      "image_version": "69f88ad3dc4b02f7b485843a",
+      "unit": "kg",
+      "unit_quantity": 0.68,
+      "private_label": false,
+      "price_drop": true,
+      "price_drop_percentage": 5.0,
+      "price_drop_from": null,
+      "price_drop_to": 10.0,
+      "price_drop_start": "2026-08-31",
+      "price_drop_end": "2026-10-31",
+      "price_drop_category": "Είδη πρωινού (καφές, δημητριακά κα)",
+      "price_drop_title": "ΟΙΚΟΓΕΝΕΙΑ ΧΑΛΒΑΤΖΗ ΜΑΡΜΕΛΑΔΑ  ΦΡΑΟΥΛΑ  ΒΑΖΟ 680 ΓΡ",
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 4.68,
+        "max_price": 4.68,
+        "avg_price": 4.68,
+        "retailer_count": 1,
+        "min_unit_price": 6.88,
+        "last_computed": null
+      },
+      "retailers": [
+        "sklavenitis"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "sklavenitis",
+          "retailer_display_name": "Σκλαβενίτης",
+          "retailer_name": "",
+          "price": 4.68,
+          "price_normalized": 6.88,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    },
+    {
+      "id": "90dfef7312f24f73a0380fab108a12a7",
+      "name": "ΟΙΚΟΓΕΝΕΙΑ ΧΑΛΒΑΤΖΗ Μαρμελάδα Φρούτα του Δάσους 680g",
+      "brand": "ΟΙΚΟΓΕΝΕΙΑ ΧΑΛΒΑΤΖΗ",
+      "images": [],
+      "category": "Μαρμελάδα",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "631a23f2-72e0-44e0-acbc-595da1ccb4f5",
+        "HsRwDJ2CGeZGCRrjevAGCT7OODfuyj4y"
+      ],
+      "subcategory": "Μαρμελάδες / Μέλι / Άλειμμα",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/90dfef7312f24f73a0380fab108a12a7?v=69f84b09dc4b02f7b48583a0",
+      "has_image": true,
+      "updated_at": "2026-10-11T04:30:44.735000",
+      "image_version": "69f84b09dc4b02f7b48583a0",
+      "unit": "kg",
+      "unit_quantity": 0.68,
+      "private_label": false,
+      "price_drop": true,
+      "price_drop_percentage": 5.0,
+      "price_drop_from": null,
+      "price_drop_to": 10.0,
+      "price_drop_start": "2026-08-31",
+      "price_drop_end": "2026-10-31",
+      "price_drop_category": "Είδη πρωινού (καφές, δημητριακά κα)",
+      "price_drop_title": "ΟΙΚΟΓΕΝΕΙΑ ΧΑΛΒΑΤΖΗ ΜΑΡΜΕΛΑΔΑ  ΦΡΟΥΤΑ ΔΑΣΟΥΣ  ΒΑΖΟ 680 ΓΡ",
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 4.68,
+        "max_price": 4.68,
+        "avg_price": 4.68,
+        "retailer_count": 1,
+        "min_unit_price": 6.88,
+        "last_computed": null
+      },
+      "retailers": [
+        "sklavenitis"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "sklavenitis",
+          "retailer_display_name": "Σκλαβενίτης",
+          "retailer_name": "",
+          "price": 4.68,
+          "price_normalized": 6.88,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    },
+    {
+      "id": "d72c2efd8585411ebfc405db79482398",
+      "name": "MERENDA Πραλίνα Φουντουκιού 570g",
+      "brand": "Merenda",
+      "images": [],
+      "category": "Πραλίνα Φουντουκιού",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "631a23f2-72e0-44e0-acbc-595da1ccb4f5",
+        "d29d14041902468e9fe29f53073c3798",
+        "5284bde4a980445ba8707de755c7bf42"
+      ],
+      "subcategory": "Πραλίνα",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/d72c2efd8585411ebfc405db79482398?v=69ce801b72191242fc3b21fb",
+      "has_image": true,
+      "updated_at": "2026-10-11T06:24:15.253000",
+      "image_version": "69ce801b72191242fc3b21fb",
+      "unit": "kg",
+      "unit_quantity": 0.57,
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "price_drop_start": null,
+      "price_drop_end": null,
+      "price_drop_category": null,
+      "price_drop_title": null,
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 3.98,
+        "max_price": 5.19,
+        "avg_price": 5.04,
+        "retailer_count": 9,
+        "min_unit_price": 6.98,
+        "last_computed": null
+      },
+      "retailers": [
+        "ab_vasilopoulos",
+        "galaxias",
+        "halkiadakis",
+        "kritikos",
+        "market_in",
+        "masoutis",
+        "mymarket",
+        "sklavenitis",
+        "bazaar",
+        "synka"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "halkiadakis",
+          "retailer_display_name": "Χαλκιαδάκης",
+          "retailer_name": "",
+          "price": 3.98,
+          "price_normalized": 6.98,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "synka",
+          "retailer_display_name": "Synka",
+          "retailer_name": "",
+          "price": 5.12,
+          "price_normalized": 8.98,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "ab_vasilopoulos",
+          "retailer_display_name": "ΑΒ Βασιλόπουλος",
+          "retailer_name": "",
+          "price": 5.17,
+          "price_normalized": 9.07,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "galaxias",
+          "retailer_display_name": "Γαλαξίας",
+          "retailer_name": "",
+          "price": 5.17,
+          "price_normalized": 9.07,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "kritikos",
+          "retailer_display_name": "Κρητικός",
+          "retailer_name": "",
+          "price": 5.17,
+          "price_normalized": 9.07,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "sklavenitis",
+          "retailer_display_name": "Σκλαβενίτης",
+          "retailer_name": "",
+          "price": 5.17,
+          "price_normalized": 9.07,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "masoutis",
+          "retailer_display_name": "Μασούτης",
+          "retailer_name": "",
+          "price": 5.17,
+          "price_normalized": 9.07,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "mymarket",
+          "retailer_display_name": "My Market",
+          "retailer_name": "",
+          "price": 5.18,
+          "price_normalized": 9.09,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "bazaar",
+          "retailer_display_name": "Bazaar",
+          "retailer_name": "",
+          "price": 5.19,
+          "price_normalized": 9.11,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    },
+    {
+      "id": "c9def3fdf00b4e6198684e8db1a80dd3",
+      "name": "ΜΕΛΑΝΘΗ Μέλι  Ανθέων & Κωνοφόρων 900gr",
+      "brand": "ΜΕΛΑΝΘΗ",
+      "images": [],
+      "category": "Μέλι",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "631a23f2-72e0-44e0-acbc-595da1ccb4f5",
+        "b2a17c2ad4235ea8574d6027636c99fc"
+      ],
+      "subcategory": "Μαρμελάδες / Μέλι / Άλειμμα",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/c9def3fdf00b4e6198684e8db1a80dd3?v=69ce66ce72191242fc3b1edc",
+      "has_image": true,
+      "updated_at": "2026-10-11T01:38:23.949000",
+      "image_version": "69ce66ce72191242fc3b1edc",
+      "unit": "kg",
+      "unit_quantity": 0.9,
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "price_drop_start": null,
+      "price_drop_end": null,
+      "price_drop_category": null,
+      "price_drop_title": null,
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 6.29,
+        "max_price": 6.29,
+        "avg_price": 6.29,
+        "retailer_count": 1,
+        "min_unit_price": 6.99,
+        "last_computed": null
+      },
+      "retailers": [
+        "kritikos"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "kritikos",
+          "retailer_display_name": "Κρητικός",
+          "retailer_name": "",
+          "price": 6.29,
+          "price_normalized": 6.99,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    },
+    {
+      "id": "ee6ed76b05124b99b7c3f0c7d53bd5cb",
+      "name": "ΑΡΙΣΤΟΝ Μέλι Ανθέων Βουλγαρίας 900gr",
+      "brand": "Άριστον",
+      "images": [],
+      "category": "Μέλι",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "631a23f2-72e0-44e0-acbc-595da1ccb4f5",
+        "b2a17c2ad4235ea8574d6027636c99fc"
+      ],
+      "subcategory": "Μαρμελάδες / Μέλι / Άλειμμα",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/ee6ed76b05124b99b7c3f0c7d53bd5cb?v=69ce795272191242fc3b2189",
+      "has_image": true,
+      "updated_at": "2026-10-11T03:28:28.727000",
+      "image_version": "69ce795272191242fc3b2189",
+      "unit": "kg",
+      "unit_quantity": 0.9,
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "price_drop_start": null,
+      "price_drop_end": null,
+      "price_drop_category": null,
+      "price_drop_title": null,
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 6.3,
+        "max_price": 6.3,
+        "avg_price": 6.3,
+        "retailer_count": 1,
+        "min_unit_price": 7.0,
+        "last_computed": null
+      },
+      "retailers": [
+        "galaxias"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "galaxias",
+          "retailer_display_name": "Γαλαξίας",
+          "retailer_name": "",
+          "price": 6.3,
+          "price_normalized": 7.0,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    },
+    {
+      "id": "3dd925bd014a4a09a140d1d9f7b7311a",
+      "name": "ΑΓΡΟΚΤΗΜΑ Μέλι 350g",
+      "brand": "Αγρόκτημα",
+      "images": [],
+      "category": "Μέλι",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "631a23f2-72e0-44e0-acbc-595da1ccb4f5",
+        "b2a17c2ad4235ea8574d6027636c99fc"
+      ],
+      "subcategory": "Μαρμελάδες / Μέλι / Άλειμμα",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/3dd925bd014a4a09a140d1d9f7b7311a?v=6a1ff9ca486cf108a79a4bcb",
+      "has_image": true,
+      "updated_at": "2026-10-11T04:49:09.881000",
+      "image_version": "6a1ff9ca486cf108a79a4bcb",
+      "unit": "kg",
+      "unit_quantity": 0.35,
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "price_drop_start": null,
+      "price_drop_end": null,
+      "price_drop_category": null,
+      "price_drop_title": null,
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 2.45,
+        "max_price": 2.45,
+        "avg_price": 2.45,
+        "retailer_count": 1,
+        "min_unit_price": 7.0,
+        "last_computed": null
+      },
+      "retailers": [
+        "bazaar"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "bazaar",
+          "retailer_display_name": "Bazaar",
+          "retailer_name": "",
+          "price": 2.45,
+          "price_normalized": 7.0,
+          "is_discount": true,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    },
+    {
+      "id": "8ca2dcebb0b44bd1a96c808801d4beba",
+      "name": "ΟΛΥΜΠΟΣ Ταχίνι Χωρίς Γλουτένη 900g",
+      "brand": "ΟΛΥΜΠΟΣ",
+      "images": [],
+      "category": "Ταχίνι",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "631a23f2-72e0-44e0-acbc-595da1ccb4f5",
+        "8a5639c5975c4911985ce847c76a3b4b"
+      ],
+      "subcategory": "Μαρμελάδες / Μέλι / Άλειμμα",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/8ca2dcebb0b44bd1a96c808801d4beba?v=69dd3ef0ee13ba2de98f93df",
+      "has_image": true,
+      "updated_at": "2026-10-11T06:18:31.157000",
+      "image_version": "69dd3ef0ee13ba2de98f93df",
+      "unit": "kg",
+      "unit_quantity": 0.9,
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "price_drop_start": null,
+      "price_drop_end": null,
+      "price_drop_category": null,
+      "price_drop_title": null,
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 6.46,
+        "max_price": 7.79,
+        "avg_price": 7.32,
+        "retailer_count": 5,
+        "min_unit_price": 7.18,
+        "last_computed": null
+      },
+      "retailers": [
+        "ab_vasilopoulos",
+        "halkiadakis",
+        "masoutis",
+        "sklavenitis",
+        "synka"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "halkiadakis",
+          "retailer_display_name": "Χαλκιαδάκης",
+          "retailer_name": "",
+          "price": 6.46,
+          "price_normalized": 7.18,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "synka",
+          "retailer_display_name": "Synka",
+          "retailer_name": "",
+          "price": 7.43,
+          "price_normalized": 8.26,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "masoutis",
+          "retailer_display_name": "Μασούτης",
+          "retailer_name": "",
+          "price": 7.43,
+          "price_normalized": 8.26,
+          "is_discount": true,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "sklavenitis",
+          "retailer_display_name": "Σκλαβενίτης",
+          "retailer_name": "",
+          "price": 7.5,
+          "price_normalized": 8.33,
+          "is_discount": true,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "ab_vasilopoulos",
+          "retailer_display_name": "ΑΒ Βασιλόπουλος",
+          "retailer_name": "",
+          "price": 7.79,
+          "price_normalized": 8.66,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    },
+    {
+      "id": "e7877349ab4d4b82aad7e3cc7c985821",
+      "name": "ΔΑΝΑΗ Μέλι Ελληνικό 900g",
+      "brand": "Δανάη ",
+      "images": [],
+      "category": "Μέλι",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "631a23f2-72e0-44e0-acbc-595da1ccb4f5",
+        "b2a17c2ad4235ea8574d6027636c99fc"
+      ],
+      "subcategory": "Μαρμελάδες / Μέλι / Άλειμμα",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/e7877349ab4d4b82aad7e3cc7c985821?v=69fda9b4dc4b02f7b4858fcd",
+      "has_image": true,
+      "updated_at": "2026-10-11T04:06:22.874000",
+      "image_version": "69fda9b4dc4b02f7b4858fcd",
+      "unit": "kg",
+      "unit_quantity": 0.9,
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "price_drop_start": null,
+      "price_drop_end": null,
+      "price_drop_category": null,
+      "price_drop_title": null,
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 6.52,
+        "max_price": 6.52,
+        "avg_price": 6.52,
+        "retailer_count": 1,
+        "min_unit_price": 7.24,
+        "last_computed": null
+      },
+      "retailers": [
+        "mymarket"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "mymarket",
+          "retailer_display_name": "My Market",
+          "retailer_name": "",
+          "price": 6.52,
+          "price_normalized": 7.24,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    },
+    {
+      "id": "c9481be1322c4d9f926cff88aa8d466f",
+      "name": "LOTUS Biscoff Άλλειμα Creamy Vegan 400g",
+      "brand": "Lotus",
+      "images": [],
+      "category": "Άλειμμα Μπισκότου",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "631a23f2-72e0-44e0-acbc-595da1ccb4f5",
+        "d29d14041902468e9fe29f53073c3798",
+        "7835d9ae76ba4008a9bcb83869cb4979"
+      ],
+      "subcategory": "Πραλίνα",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/c9481be1322c4d9f926cff88aa8d466f?v=69dcfca5ee13ba2de98f91c4",
+      "has_image": true,
+      "updated_at": "2026-10-11T06:23:10.332000",
+      "image_version": "69dcfca5ee13ba2de98f91c4",
+      "unit": "kg",
+      "unit_quantity": 0.4,
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "price_drop_start": null,
+      "price_drop_end": null,
+      "price_drop_category": null,
+      "price_drop_title": null,
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 2.96,
+        "max_price": 5.6,
+        "avg_price": 4.41,
+        "retailer_count": 6,
+        "min_unit_price": 7.4,
+        "last_computed": null
+      },
+      "retailers": [
+        "carrefour_es",
+        "carrefour_it",
+        "delhaize",
+        "frisco",
+        "halkiadakis",
+        "masoutis",
+        "mymarket",
+        "sklavenitis",
+        "bazaar",
+        "synka"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "halkiadakis",
+          "retailer_display_name": "Χαλκιαδάκης",
+          "retailer_name": "",
+          "price": 2.96,
+          "price_normalized": 7.4,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "bazaar",
+          "retailer_display_name": "Bazaar",
+          "retailer_name": "",
+          "price": 4.45,
+          "price_normalized": 11.12,
+          "is_discount": true,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "masoutis",
+          "retailer_display_name": "Μασούτης",
+          "retailer_name": "",
+          "price": 4.47,
+          "price_normalized": 11.17,
+          "is_discount": true,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "mymarket",
+          "retailer_display_name": "My Market",
+          "retailer_name": "",
+          "price": 4.47,
+          "price_normalized": 11.17,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "synka",
+          "retailer_display_name": "Synka",
+          "retailer_name": "",
+          "price": 4.48,
+          "price_normalized": 11.2,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "sklavenitis",
+          "retailer_display_name": "Σκλαβενίτης",
+          "retailer_name": "",
+          "price": 5.6,
+          "price_normalized": 14.0,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "BE",
+        "CY",
+        "ES",
+        "GR",
+        "IT",
+        "PL"
+      ],
+      "is_international": true
+    },
+    {
+      "id": "4684ea7a6a3d4238876db5e7ff4ac7b2",
+      "name": "ΟΛΥΜΠΟΣ Super Spread Φυστικοβούτυρο με Μαύρη Σοκολάτα 350g",
+      "brand": "ΟΛΥΜΠΟΣ",
+      "images": [],
+      "category": "Μαρμελάδες / Μέλι / Άλειμμα",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "631a23f2-72e0-44e0-acbc-595da1ccb4f5"
+      ],
+      "subcategory": "Αρτοποιείο / Πρωινό",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/4684ea7a6a3d4238876db5e7ff4ac7b2?v=69ce743a72191242fc3b20e2",
+      "has_image": true,
+      "updated_at": "2026-10-11T06:18:33.701000",
+      "image_version": "69ce743a72191242fc3b20e2",
+      "unit": "kg",
+      "unit_quantity": 0.35,
+      "private_label": false,
+      "price_drop": true,
+      "price_drop_percentage": 5.0,
+      "price_drop_from": null,
+      "price_drop_to": 5.0,
+      "price_drop_start": "2026-08-31",
+      "price_drop_end": "2026-12-31",
+      "price_drop_category": "Είδη πρωινού (καφές, δημητριακά κα)",
+      "price_drop_title": "Όλυμπος SuperSpread Φυστικοβούτυρο με Μαύρη Σοκολάτα 350gr",
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 2.59,
+        "max_price": 3.95,
+        "avg_price": 3.17,
+        "retailer_count": 5,
+        "min_unit_price": 7.4,
+        "last_computed": null
+      },
+      "retailers": [
+        "ab_vasilopoulos",
+        "galaxias",
+        "halkiadakis",
+        "kritikos",
+        "masoutis",
+        "sklavenitis",
+        "synka"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "halkiadakis",
+          "retailer_display_name": "Χαλκιαδάκης",
+          "retailer_name": "",
+          "price": 2.59,
+          "price_normalized": 7.4,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "masoutis",
+          "retailer_display_name": "Μασούτης",
+          "retailer_name": "",
+          "price": 2.78,
+          "price_normalized": 7.94,
+          "is_discount": true,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "synka",
+          "retailer_display_name": "Synka",
+          "retailer_name": "",
+          "price": 2.78,
+          "price_normalized": 7.94,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "kritikos",
+          "retailer_display_name": "Κρητικός",
+          "retailer_name": "",
+          "price": 3.75,
+          "price_normalized": 10.71,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "galaxias",
+          "retailer_display_name": "Γαλαξίας",
+          "retailer_name": "",
+          "price": 3.95,
+          "price_normalized": 11.29,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    },
+    {
+      "id": "a134442380aa41aeac734d30f9506dbb",
+      "name": "ΟΛΥΜΠΟΣ Super Spread Φυστικοβούτυρο Απαλό 350g",
+      "brand": "ΟΛΥΜΠΟΣ",
+      "images": [],
+      "category": "Μαρμελάδες / Μέλι / Άλειμμα",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "631a23f2-72e0-44e0-acbc-595da1ccb4f5"
+      ],
+      "subcategory": "Αρτοποιείο / Πρωινό",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/a134442380aa41aeac734d30f9506dbb?v=69ce743a72191242fc3b20e0",
+      "has_image": true,
+      "updated_at": "2026-10-11T06:18:33.639000",
+      "image_version": "69ce743a72191242fc3b20e0",
+      "unit": "kg",
+      "unit_quantity": 0.35,
+      "private_label": false,
+      "price_drop": true,
+      "price_drop_percentage": 5.0,
+      "price_drop_from": null,
+      "price_drop_to": 5.0,
+      "price_drop_start": "2026-08-31",
+      "price_drop_end": "2026-12-31",
+      "price_drop_category": "Είδη πρωινού (καφές, δημητριακά κα)",
+      "price_drop_title": "Όλυμπος SuperSpread Φυστικοβούτυρο Απαλό 350gr",
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 2.59,
+        "max_price": 3.98,
+        "avg_price": 3.16,
+        "retailer_count": 8,
+        "min_unit_price": 7.4,
+        "last_computed": null
+      },
+      "retailers": [
+        "ab_vasilopoulos",
+        "galaxias",
+        "halkiadakis",
+        "kritikos",
+        "market_in",
+        "masoutis",
+        "mymarket",
+        "sklavenitis",
+        "bazaar",
+        "synka"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "halkiadakis",
+          "retailer_display_name": "Χαλκιαδάκης",
+          "retailer_name": "",
+          "price": 2.59,
+          "price_normalized": 7.4,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "sklavenitis",
+          "retailer_display_name": "Σκλαβενίτης",
+          "retailer_name": "",
+          "price": 2.68,
+          "price_normalized": 7.66,
+          "is_discount": true,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "masoutis",
+          "retailer_display_name": "Μασούτης",
+          "retailer_name": "",
+          "price": 2.78,
+          "price_normalized": 7.94,
+          "is_discount": true,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "synka",
+          "retailer_display_name": "Synka",
+          "retailer_name": "",
+          "price": 2.78,
+          "price_normalized": 7.94,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "bazaar",
+          "retailer_display_name": "Bazaar",
+          "retailer_name": "",
+          "price": 2.8,
+          "price_normalized": 8.0,
+          "is_discount": true,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "kritikos",
+          "retailer_display_name": "Κρητικός",
+          "retailer_name": "",
+          "price": 3.75,
+          "price_normalized": 10.71,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "galaxias",
+          "retailer_display_name": "Γαλαξίας",
+          "retailer_name": "",
+          "price": 3.95,
+          "price_normalized": 11.29,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "mymarket",
+          "retailer_display_name": "My Market",
+          "retailer_name": "",
+          "price": 3.98,
+          "price_normalized": 11.37,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "CY",
+        "GR"
+      ],
+      "is_international": true
+    },
+    {
+      "id": "0a8bd9077f154a5aa2712e79b6798795",
+      "name": "ΚΥΨΕΛΗ Μέλι Πεύκου Θάσου 900γρ.",
+      "brand": "Κυψέλη των Θεών",
+      "images": [],
+      "category": "Μέλι",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "631a23f2-72e0-44e0-acbc-595da1ccb4f5",
+        "b2a17c2ad4235ea8574d6027636c99fc"
+      ],
+      "subcategory": "Μαρμελάδες / Μέλι / Άλειμμα",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/0a8bd9077f154a5aa2712e79b6798795?v=69d6504a72191242fc3b2af5",
+      "has_image": true,
+      "updated_at": "2026-10-11T05:50:12.486000",
+      "image_version": "69d6504a72191242fc3b2af5",
+      "unit": "kg",
+      "unit_quantity": 0.9,
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "price_drop_start": null,
+      "price_drop_end": null,
+      "price_drop_category": null,
+      "price_drop_title": null,
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 6.7,
+        "max_price": 8.38,
+        "avg_price": 7.8,
+        "retailer_count": 3,
+        "min_unit_price": 7.44,
+        "last_computed": null
+      },
+      "retailers": [
+        "masoutis",
+        "mymarket",
+        "ab_vasilopoulos"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "masoutis",
+          "retailer_display_name": "Μασούτης",
+          "retailer_name": "",
+          "price": 6.7,
+          "price_normalized": 7.44,
+          "is_discount": true,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "mymarket",
+          "retailer_display_name": "My Market",
+          "retailer_name": "",
+          "price": 8.32,
+          "price_normalized": 9.24,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "ab_vasilopoulos",
+          "retailer_display_name": "ΑΒ Βασιλόπουλος",
+          "retailer_name": "",
+          "price": 8.38,
+          "price_normalized": 9.31,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    },
+    {
+      "id": "c9af343b385b462494777b170406853c",
+      "name": "BYZANTINON Μέλι Ανθέων Ελληνικό 920gr",
+      "brand": "BYZANTINON  ",
+      "images": [],
+      "category": "Μέλι",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "631a23f2-72e0-44e0-acbc-595da1ccb4f5",
+        "b2a17c2ad4235ea8574d6027636c99fc"
+      ],
+      "subcategory": "Μαρμελάδες / Μέλι / Άλειμμα",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/c9af343b385b462494777b170406853c?v=6a983f00ce7de5df7130724a",
+      "has_image": true,
+      "updated_at": "2026-10-11T05:50:01.024000",
+      "image_version": "6a983f00ce7de5df7130724a",
+      "unit": "kg",
+      "unit_quantity": 0.92,
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "price_drop_start": null,
+      "price_drop_end": null,
+      "price_drop_category": null,
+      "price_drop_title": null,
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 6.85,
+        "max_price": 6.85,
+        "avg_price": 6.85,
+        "retailer_count": 1,
+        "min_unit_price": 7.45,
+        "last_computed": null
+      },
+      "retailers": [
+        "ab_vasilopoulos"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "ab_vasilopoulos",
+          "retailer_display_name": "ΑΒ Βασιλόπουλος",
+          "retailer_name": "",
+          "price": 6.85,
+          "price_normalized": 7.45,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    },
+    {
+      "id": "66b1944193b949768b0fa5ff35834aab",
+      "name": "ΑΦΟΙ ΧΑΪΤΟΓΛΟΥ Φιστικοβούτυρο Crunchy Vegan Χωρίς γλουτένη 350g",
+      "brand": "ΑΦΟΙ ΧΑΪΤΟΓΛΟΥ",
+      "images": [],
+      "category": "Μαρμελάδες / Μέλι / Άλειμμα",
+      "category_ids": [
+        "fb7311d1172f411dba075194a4120689",
+        "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+        "631a23f2-72e0-44e0-acbc-595da1ccb4f5"
+      ],
+      "subcategory": "Αρτοποιείο / Πρωινό",
+      "description": null,
+      "image_url": "https://api.posokanei.gov.gr/images/product/66b1944193b949768b0fa5ff35834aab?v=69f9b4bddc4b02f7b4858634",
+      "has_image": true,
+      "updated_at": "2026-10-11T06:17:56.939000",
+      "image_version": "69f9b4bddc4b02f7b4858634",
+      "unit": "kg",
+      "unit_quantity": 0.35,
+      "private_label": false,
+      "price_drop": false,
+      "price_drop_percentage": null,
+      "price_drop_from": null,
+      "price_drop_to": null,
+      "price_drop_start": null,
+      "price_drop_end": null,
+      "price_drop_category": null,
+      "price_drop_title": null,
+      "price_drop_company": null,
+      "price_stats": {
+        "min_price": 2.66,
+        "max_price": 4.55,
+        "avg_price": 3.95,
+        "retailer_count": 8,
+        "min_unit_price": 7.6,
+        "last_computed": null
+      },
+      "retailers": [
+        "ab_vasilopoulos",
+        "galaxias",
+        "halkiadakis",
+        "kritikos",
+        "masoutis",
+        "mymarket",
+        "sklavenitis",
+        "synka"
+      ],
+      "retailer_prices": [
+        {
+          "retailer": "halkiadakis",
+          "retailer_display_name": "Χαλκιαδάκης",
+          "retailer_name": "",
+          "price": 2.66,
+          "price_normalized": 7.6,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "ab_vasilopoulos",
+          "retailer_display_name": "ΑΒ Βασιλόπουλος",
+          "retailer_name": "",
+          "price": 4.06,
+          "price_normalized": 11.6,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "sklavenitis",
+          "retailer_display_name": "Σκλαβενίτης",
+          "retailer_name": "",
+          "price": 4.06,
+          "price_normalized": 11.6,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "masoutis",
+          "retailer_display_name": "Μασούτης",
+          "retailer_name": "",
+          "price": 4.06,
+          "price_normalized": 11.6,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "kritikos",
+          "retailer_display_name": "Κρητικός",
+          "retailer_name": "",
+          "price": 4.06,
+          "price_normalized": 11.6,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "galaxias",
+          "retailer_display_name": "Γαλαξίας",
+          "retailer_name": "",
+          "price": 4.06,
+          "price_normalized": 11.6,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "mymarket",
+          "retailer_display_name": "My Market",
+          "retailer_name": "",
+          "price": 4.07,
+          "price_normalized": 11.63,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        },
+        {
+          "retailer": "synka",
+          "retailer_display_name": "Synka",
+          "retailer_name": "",
+          "price": 4.55,
+          "price_normalized": 13.0,
+          "is_discount": false,
+          "discount_percentage": null,
+          "last_updated": "2026-10-11T00:00:00",
+          "country": "GR"
+        }
+      ],
+      "available_countries": [
+        "GR"
+      ],
+      "is_international": false
+    }
+  ],
+  "total": 307,
+  "page": 1,
+  "page_size": 36,
+  "total_pages": 9,
+  "has_next": true,
+  "has_prev": false,
+  "query_time_ms": null
+}

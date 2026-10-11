@@ -1,0 +1,3101 @@
+{
+  "id": "975c34c8d04740dda1e28cd51e28e283",
+  "name": "ΚΑΡΑΜΟΛΕΓΚΟΣ  Ψωμί Τοστ Ολικής Άλεσης 720g",
+  "brand": "ΚΑΡΑΜΟΛΕΓΚΟΣ",
+  "images": [],
+  "category": "Ψωμί τυποποιημένο",
+  "category_ids": [
+    "fb7311d1172f411dba075194a4120689",
+    "f80725cd-fbce-413c-87d8-a19eaab8b8f3",
+    "b2a17c2ad4235ea8574d602763721135"
+  ],
+  "subcategory": "Αρτοποιείο / Πρωινό",
+  "description": null,
+  "image_url": "https://api.posokanei.gov.gr/images/product/975c34c8d04740dda1e28cd51e28e283?v=69cbc85d72191242fc3b1ba1",
+  "has_image": true,
+  "updated_at": "2026-10-11T06:20:44.985000",
+  "image_version": "69cbc85d72191242fc3b1ba1",
+  "unit": "kg",
+  "unit_quantity": 0.72,
+  "private_label": false,
+  "price_drop": false,
+  "price_drop_percentage": null,
+  "price_drop_from": null,
+  "price_drop_to": null,
+  "price_drop_start": null,
+  "price_drop_end": null,
+  "price_drop_category": null,
+  "price_drop_title": null,
+  "price_drop_company": null,
+  "price_stats": {
+    "min_price": 1.36,
+    "max_price": 2.04,
+    "avg_price": 1.89,
+    "retailer_count": 8,
+    "min_unit_price": 1.89,
+    "last_computed": null
+  },
+  "retailers": [
+    "ab_vasilopoulos",
+    "galaxias",
+    "halkiadakis",
+    "masoutis",
+    "mymarket",
+    "sklavenitis",
+    "bazaar",
+    "synka"
+  ],
+  "retailer_prices": [
+    {
+      "retailer": "halkiadakis",
+      "retailer_display_name": "Χαλκιαδάκης",
+      "retailer_name": "ΚΑΡΑΜΟΛΕΓΚΟΣ  Ψωμί Τοστ Ολικής Άλεσης 720g",
+      "price": 1.36,
+      "price_normalized": 1.89,
+      "is_discount": false,
+      "discount_percentage": null,
+      "last_updated": "2026-10-11T00:00:00",
+      "country": "GR"
+    },
+    {
+      "retailer": "synka",
+      "retailer_display_name": "Synka",
+      "retailer_name": "ΚΑΡΑΜΟΛΕΓΚΟΣ  Ψωμί Τοστ Ολικής Άλεσης 720g",
+      "price": 1.95,
+      "price_normalized": 2.71,
+      "is_discount": false,
+      "discount_percentage": null,
+      "last_updated": "2026-10-11T00:00:00",
+      "country": "GR"
+    },
+    {
+      "retailer": "galaxias",
+      "retailer_display_name": "Γαλαξίας",
+      "retailer_name": "ΚΑΡΑΜΟΛΕΓΚΟΣ  Ψωμί Τοστ Ολικής Άλεσης 720g",
+      "price": 1.95,
+      "price_normalized": 2.71,
+      "is_discount": false,
+      "discount_percentage": null,
+      "last_updated": "2026-10-11T00:00:00",
+      "country": "GR"
+    },
+    {
+      "retailer": "bazaar",
+      "retailer_display_name": "Bazaar",
+      "retailer_name": "ΚΑΡΑΜΟΛΕΓΚΟΣ  Ψωμί Τοστ Ολικής Άλεσης 720g",
+      "price": 1.95,
+      "price_normalized": 2.71,
+      "is_discount": false,
+      "discount_percentage": null,
+      "last_updated": "2026-10-11T00:00:00",
+      "country": "GR"
+    },
+    {
+      "retailer": "masoutis",
+      "retailer_display_name": "Μασούτης",
+      "retailer_name": "ΚΑΡΑΜΟΛΕΓΚΟΣ  Ψωμί Τοστ Ολικής Άλεσης 720g",
+      "price": 1.95,
+      "price_normalized": 2.71,
+      "is_discount": false,
+      "discount_percentage": null,
+      "last_updated": "2026-10-11T00:00:00",
+      "country": "GR"
+    },
+    {
+      "retailer": "mymarket",
+      "retailer_display_name": "My Market",
+      "retailer_name": "ΚΑΡΑΜΟΛΕΓΚΟΣ  Ψωμί Τοστ Ολικής Άλεσης 720g",
+      "price": 1.95,
+      "price_normalized": 2.71,
+      "is_discount": false,
+      "discount_percentage": null,
+      "last_updated": "2026-10-11T00:00:00",
+      "country": "GR"
+    },
+    {
+      "retailer": "sklavenitis",
+      "retailer_display_name": "Σκλαβενίτης",
+      "retailer_name": "ΚΑΡΑΜΟΛΕΓΚΟΣ  Ψωμί Τοστ Ολικής Άλεσης 720g",
+      "price": 1.96,
+      "price_normalized": 2.72,
+      "is_discount": false,
+      "discount_percentage": null,
+      "last_updated": "2026-10-11T00:00:00",
+      "country": "GR"
+    },
+    {
+      "retailer": "ab_vasilopoulos",
+      "retailer_display_name": "ΑΒ Βασιλόπουλος",
+      "retailer_name": "ΚΑΡΑΜΟΛΕΓΚΟΣ  Ψωμί Τοστ Ολικής Άλεσης 720g",
+      "price": 2.04,
+      "price_normalized": 2.83,
+      "is_discount": false,
+      "discount_percentage": null,
+      "last_updated": "2026-10-11T00:00:00",
+      "country": "GR"
+    }
+  ],
+  "available_countries": [
+    "GR"
+  ],
+  "is_international": false,
+  "history": {
+    "retailers": [
+      "ab_vasilopoulos",
+      "synka",
+      "galaxias",
+      "bazaar",
+      "sklavenitis",
+      "masoutis",
+      "halkiadakis",
+      "mymarket"
+    ],
+    "daily_prices": {
+      "ab_vasilopoulos": [
+        {
+          "date": "2026-08-12",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        },
+        {
+          "date": "2026-08-13",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        },
+        {
+          "date": "2026-08-14",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        },
+        {
+          "date": "2026-08-15",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        },
+        {
+          "date": "2026-08-16",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        },
+        {
+          "date": "2026-08-17",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        },
+        {
+          "date": "2026-08-18",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        },
+        {
+          "date": "2026-08-19",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        },
+        {
+          "date": "2026-08-20",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        },
+        {
+          "date": "2026-08-21",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        },
+        {
+          "date": "2026-08-22",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        },
+        {
+          "date": "2026-08-23",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        },
+        {
+          "date": "2026-08-24",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        },
+        {
+          "date": "2026-08-25",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        },
+        {
+          "date": "2026-08-26",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        },
+        {
+          "date": "2026-08-27",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        },
+        {
+          "date": "2026-08-28",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        },
+        {
+          "date": "2026-08-29",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        },
+        {
+          "date": "2026-08-30",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        },
+        {
+          "date": "2026-08-31",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        },
+        {
+          "date": "2026-09-01",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        },
+        {
+          "date": "2026-09-02",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        },
+        {
+          "date": "2026-09-03",
+          "country": "GR",
+          "price": 1.53,
+          "unit_price": 2.12
+        },
+        {
+          "date": "2026-09-04",
+          "country": "GR",
+          "price": 1.53,
+          "unit_price": 2.12
+        },
+        {
+          "date": "2026-09-05",
+          "country": "GR",
+          "price": 1.53,
+          "unit_price": 2.12
+        },
+        {
+          "date": "2026-09-06",
+          "country": "GR",
+          "price": 1.53,
+          "unit_price": 2.12
+        },
+        {
+          "date": "2026-09-07",
+          "country": "GR",
+          "price": 1.53,
+          "unit_price": 2.12
+        },
+        {
+          "date": "2026-09-08",
+          "country": "GR",
+          "price": 1.53,
+          "unit_price": 2.12
+        },
+        {
+          "date": "2026-09-09",
+          "country": "GR",
+          "price": 1.53,
+          "unit_price": 2.12
+        },
+        {
+          "date": "2026-09-10",
+          "country": "GR",
+          "price": 1.53,
+          "unit_price": 2.12
+        },
+        {
+          "date": "2026-09-11",
+          "country": "GR",
+          "price": 1.53,
+          "unit_price": 2.12
+        },
+        {
+          "date": "2026-09-12",
+          "country": "GR",
+          "price": 1.53,
+          "unit_price": 2.12
+        },
+        {
+          "date": "2026-09-13",
+          "country": "GR",
+          "price": 1.53,
+          "unit_price": 2.12
+        },
+        {
+          "date": "2026-09-14",
+          "country": "GR",
+          "price": 1.53,
+          "unit_price": 2.12
+        },
+        {
+          "date": "2026-09-15",
+          "country": "GR",
+          "price": 1.53,
+          "unit_price": 2.12
+        },
+        {
+          "date": "2026-09-16",
+          "country": "GR",
+          "price": 1.53,
+          "unit_price": 2.12
+        },
+        {
+          "date": "2026-09-17",
+          "country": "GR",
+          "price": 1.53,
+          "unit_price": 2.12
+        },
+        {
+          "date": "2026-09-18",
+          "country": "GR",
+          "price": 1.53,
+          "unit_price": 2.12
+        },
+        {
+          "date": "2026-09-20",
+          "country": "GR",
+          "price": 1.53,
+          "unit_price": 2.12
+        },
+        {
+          "date": "2026-09-21",
+          "country": "GR",
+          "price": 1.53,
+          "unit_price": 2.12
+        },
+        {
+          "date": "2026-09-22",
+          "country": "GR",
+          "price": 1.53,
+          "unit_price": 2.12
+        },
+        {
+          "date": "2026-09-23",
+          "country": "GR",
+          "price": 1.53,
+          "unit_price": 2.12
+        },
+        {
+          "date": "2026-09-24",
+          "country": "GR",
+          "price": 1.53,
+          "unit_price": 2.12
+        },
+        {
+          "date": "2026-09-25",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        },
+        {
+          "date": "2026-09-26",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        },
+        {
+          "date": "2026-09-27",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        },
+        {
+          "date": "2026-09-28",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        },
+        {
+          "date": "2026-09-29",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        },
+        {
+          "date": "2026-09-30",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        },
+        {
+          "date": "2026-10-01",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        },
+        {
+          "date": "2026-10-02",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        },
+        {
+          "date": "2026-10-03",
+          "country": "GR",
+          "price": 1.53,
+          "unit_price": 2.12
+        },
+        {
+          "date": "2026-10-04",
+          "country": "GR",
+          "price": 1.53,
+          "unit_price": 2.12
+        },
+        {
+          "date": "2026-10-05",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        },
+        {
+          "date": "2026-10-06",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        },
+        {
+          "date": "2026-10-07",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        },
+        {
+          "date": "2026-10-08",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        },
+        {
+          "date": "2026-10-09",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        },
+        {
+          "date": "2026-10-10",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        },
+        {
+          "date": "2026-10-11",
+          "country": "GR",
+          "price": 2.04,
+          "unit_price": 2.83
+        }
+      ],
+      "synka": [
+        {
+          "date": "2026-08-12",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-13",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-14",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-15",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-16",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-17",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-18",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-19",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-20",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-21",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-22",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-23",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-24",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-25",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-26",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-27",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-08-28",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-08-29",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-08-30",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-08-31",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-01",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-02",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-03",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-04",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-05",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-06",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-07",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-08",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-09",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-10",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-11",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-12",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-13",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-14",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-15",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-16",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-17",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-18",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-19",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-20",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-21",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-22",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-23",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-24",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-25",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-26",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-27",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-28",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-29",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-30",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-01",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-02",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-03",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-04",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-05",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-06",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-07",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-08",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-09",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-10",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-11",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        }
+      ],
+      "galaxias": [
+        {
+          "date": "2026-08-12",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-13",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-14",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-15",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-16",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-17",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-18",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-19",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-20",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-21",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-22",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-23",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-24",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-25",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-26",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-08-27",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-08-28",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-08-29",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-08-30",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-08-31",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-01",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-02",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-03",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-04",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-05",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-06",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-07",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-08",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-09",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-10",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-11",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-12",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-13",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-14",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-15",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-16",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-17",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-18",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-19",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-20",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-21",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-22",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-23",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-24",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-25",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-26",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-27",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-28",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-29",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-30",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-01",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-02",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-03",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-04",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-05",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-06",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-07",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-08",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-09",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-10",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-11",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        }
+      ],
+      "bazaar": [
+        {
+          "date": "2026-08-12",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-13",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-14",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-15",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-16",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-17",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-18",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-19",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-20",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-21",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-22",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-23",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-24",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-25",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-26",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-27",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-28",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-29",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-30",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-31",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-01",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-02",
+          "country": "GR",
+          "price": 1.37,
+          "unit_price": 1.9
+        },
+        {
+          "date": "2026-09-03",
+          "country": "GR",
+          "price": 1.37,
+          "unit_price": 1.9
+        },
+        {
+          "date": "2026-09-04",
+          "country": "GR",
+          "price": 1.37,
+          "unit_price": 1.9
+        },
+        {
+          "date": "2026-09-05",
+          "country": "GR",
+          "price": 1.37,
+          "unit_price": 1.9
+        },
+        {
+          "date": "2026-09-06",
+          "country": "GR",
+          "price": 1.37,
+          "unit_price": 1.9
+        },
+        {
+          "date": "2026-09-07",
+          "country": "GR",
+          "price": 1.37,
+          "unit_price": 1.9
+        },
+        {
+          "date": "2026-09-08",
+          "country": "GR",
+          "price": 1.37,
+          "unit_price": 1.9
+        },
+        {
+          "date": "2026-09-09",
+          "country": "GR",
+          "price": 1.37,
+          "unit_price": 1.9
+        },
+        {
+          "date": "2026-09-10",
+          "country": "GR",
+          "price": 1.37,
+          "unit_price": 1.9
+        },
+        {
+          "date": "2026-09-11",
+          "country": "GR",
+          "price": 1.37,
+          "unit_price": 1.9
+        },
+        {
+          "date": "2026-09-12",
+          "country": "GR",
+          "price": 1.37,
+          "unit_price": 1.9
+        },
+        {
+          "date": "2026-09-13",
+          "country": "GR",
+          "price": 1.37,
+          "unit_price": 1.9
+        },
+        {
+          "date": "2026-09-14",
+          "country": "GR",
+          "price": 1.37,
+          "unit_price": 1.9
+        },
+        {
+          "date": "2026-09-15",
+          "country": "GR",
+          "price": 1.37,
+          "unit_price": 1.9
+        },
+        {
+          "date": "2026-09-16",
+          "country": "GR",
+          "price": 1.37,
+          "unit_price": 1.9
+        },
+        {
+          "date": "2026-09-17",
+          "country": "GR",
+          "price": 1.37,
+          "unit_price": 1.9
+        },
+        {
+          "date": "2026-09-18",
+          "country": "GR",
+          "price": 1.37,
+          "unit_price": 1.9
+        },
+        {
+          "date": "2026-09-19",
+          "country": "GR",
+          "price": 1.37,
+          "unit_price": 1.9
+        },
+        {
+          "date": "2026-09-20",
+          "country": "GR",
+          "price": 1.37,
+          "unit_price": 1.9
+        },
+        {
+          "date": "2026-09-21",
+          "country": "GR",
+          "price": 1.37,
+          "unit_price": 1.9
+        },
+        {
+          "date": "2026-09-22",
+          "country": "GR",
+          "price": 1.37,
+          "unit_price": 1.9
+        },
+        {
+          "date": "2026-09-23",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-24",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-25",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-26",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-27",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-28",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-29",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-30",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-01",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-02",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-03",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-04",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-05",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-06",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-07",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-08",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-09",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-10",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-11",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        }
+      ],
+      "sklavenitis": [
+        {
+          "date": "2026-08-12",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-08-13",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-08-14",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-08-15",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-08-16",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-08-17",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-08-18",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-08-19",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-08-20",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-08-21",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-08-22",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-08-23",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-08-24",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-08-25",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-08-26",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-08-27",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-08-28",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-08-29",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-08-30",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-08-31",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-09-01",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-09-02",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-09-03",
+          "country": "GR",
+          "price": 1.47,
+          "unit_price": 2.04
+        },
+        {
+          "date": "2026-09-04",
+          "country": "GR",
+          "price": 1.47,
+          "unit_price": 2.04
+        },
+        {
+          "date": "2026-09-05",
+          "country": "GR",
+          "price": 1.47,
+          "unit_price": 2.04
+        },
+        {
+          "date": "2026-09-06",
+          "country": "GR",
+          "price": 1.47,
+          "unit_price": 2.04
+        },
+        {
+          "date": "2026-09-07",
+          "country": "GR",
+          "price": 1.47,
+          "unit_price": 2.04
+        },
+        {
+          "date": "2026-09-08",
+          "country": "GR",
+          "price": 1.47,
+          "unit_price": 2.04
+        },
+        {
+          "date": "2026-09-09",
+          "country": "GR",
+          "price": 1.47,
+          "unit_price": 2.04
+        },
+        {
+          "date": "2026-09-10",
+          "country": "GR",
+          "price": 1.47,
+          "unit_price": 2.04
+        },
+        {
+          "date": "2026-09-11",
+          "country": "GR",
+          "price": 1.47,
+          "unit_price": 2.04
+        },
+        {
+          "date": "2026-09-12",
+          "country": "GR",
+          "price": 1.47,
+          "unit_price": 2.04
+        },
+        {
+          "date": "2026-09-13",
+          "country": "GR",
+          "price": 1.47,
+          "unit_price": 2.04
+        },
+        {
+          "date": "2026-09-14",
+          "country": "GR",
+          "price": 1.47,
+          "unit_price": 2.04
+        },
+        {
+          "date": "2026-09-15",
+          "country": "GR",
+          "price": 1.47,
+          "unit_price": 2.04
+        },
+        {
+          "date": "2026-09-16",
+          "country": "GR",
+          "price": 1.47,
+          "unit_price": 2.04
+        },
+        {
+          "date": "2026-09-17",
+          "country": "GR",
+          "price": 1.47,
+          "unit_price": 2.04
+        },
+        {
+          "date": "2026-09-18",
+          "country": "GR",
+          "price": 1.47,
+          "unit_price": 2.04
+        },
+        {
+          "date": "2026-09-19",
+          "country": "GR",
+          "price": 1.47,
+          "unit_price": 2.04
+        },
+        {
+          "date": "2026-09-20",
+          "country": "GR",
+          "price": 1.47,
+          "unit_price": 2.04
+        },
+        {
+          "date": "2026-09-21",
+          "country": "GR",
+          "price": 1.47,
+          "unit_price": 2.04
+        },
+        {
+          "date": "2026-09-22",
+          "country": "GR",
+          "price": 1.47,
+          "unit_price": 2.04
+        },
+        {
+          "date": "2026-09-23",
+          "country": "GR",
+          "price": 1.47,
+          "unit_price": 2.04
+        },
+        {
+          "date": "2026-09-24",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-09-25",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-09-26",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-09-27",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-09-28",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-09-29",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-09-30",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-10-01",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-10-02",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-10-03",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-10-04",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-10-05",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-10-06",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-10-07",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-10-08",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-10-09",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-10-10",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        },
+        {
+          "date": "2026-10-11",
+          "country": "GR",
+          "price": 1.96,
+          "unit_price": 2.72
+        }
+      ],
+      "masoutis": [
+        {
+          "date": "2026-08-12",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-13",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-14",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-15",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-16",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-17",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-18",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-19",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-20",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-21",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-22",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-23",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-24",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-25",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-26",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-27",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-08-28",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-08-29",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-08-30",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-08-31",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-01",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-02",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-03",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-04",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-05",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-06",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-07",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-08",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-09",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-10",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-11",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-12",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-13",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-14",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-15",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-16",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-17",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-18",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-19",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-20",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-21",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-22",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-23",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-24",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-25",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-26",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-27",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-28",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-29",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-30",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-01",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-02",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-03",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-04",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-05",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-06",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-07",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-08",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-09",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-10",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-11",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        }
+      ],
+      "halkiadakis": [
+        {
+          "date": "2026-08-12",
+          "country": "GR",
+          "price": 1.56,
+          "unit_price": 2.17
+        },
+        {
+          "date": "2026-08-13",
+          "country": "GR",
+          "price": 1.56,
+          "unit_price": 2.17
+        },
+        {
+          "date": "2026-08-14",
+          "country": "GR",
+          "price": 1.56,
+          "unit_price": 2.17
+        },
+        {
+          "date": "2026-08-15",
+          "country": "GR",
+          "price": 1.56,
+          "unit_price": 2.17
+        },
+        {
+          "date": "2026-08-16",
+          "country": "GR",
+          "price": 1.56,
+          "unit_price": 2.17
+        },
+        {
+          "date": "2026-08-17",
+          "country": "GR",
+          "price": 1.56,
+          "unit_price": 2.17
+        },
+        {
+          "date": "2026-08-18",
+          "country": "GR",
+          "price": 1.56,
+          "unit_price": 2.17
+        },
+        {
+          "date": "2026-08-19",
+          "country": "GR",
+          "price": 1.56,
+          "unit_price": 2.17
+        },
+        {
+          "date": "2026-08-20",
+          "country": "GR",
+          "price": 1.56,
+          "unit_price": 2.17
+        },
+        {
+          "date": "2026-08-21",
+          "country": "GR",
+          "price": 1.56,
+          "unit_price": 2.17
+        },
+        {
+          "date": "2026-08-22",
+          "country": "GR",
+          "price": 1.56,
+          "unit_price": 2.17
+        },
+        {
+          "date": "2026-08-23",
+          "country": "GR",
+          "price": 1.56,
+          "unit_price": 2.17
+        },
+        {
+          "date": "2026-08-24",
+          "country": "GR",
+          "price": 1.56,
+          "unit_price": 2.17
+        },
+        {
+          "date": "2026-08-25",
+          "country": "GR",
+          "price": 1.56,
+          "unit_price": 2.17
+        },
+        {
+          "date": "2026-08-26",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-27",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-28",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-29",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-30",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-31",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-01",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-02",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-03",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-04",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-05",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-06",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-07",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-08",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-09",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-10",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-11",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-12",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-13",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-14",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-15",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-16",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-17",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-18",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-19",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-20",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-21",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-22",
+          "country": "GR",
+          "price": 1.46,
+          "unit_price": 2.03
+        },
+        {
+          "date": "2026-09-23",
+          "country": "GR",
+          "price": 1.36,
+          "unit_price": 1.89
+        },
+        {
+          "date": "2026-09-24",
+          "country": "GR",
+          "price": 1.36,
+          "unit_price": 1.89
+        },
+        {
+          "date": "2026-09-25",
+          "country": "GR",
+          "price": 1.36,
+          "unit_price": 1.89
+        },
+        {
+          "date": "2026-09-26",
+          "country": "GR",
+          "price": 1.36,
+          "unit_price": 1.89
+        },
+        {
+          "date": "2026-09-27",
+          "country": "GR",
+          "price": 1.36,
+          "unit_price": 1.89
+        },
+        {
+          "date": "2026-09-28",
+          "country": "GR",
+          "price": 1.36,
+          "unit_price": 1.89
+        },
+        {
+          "date": "2026-09-29",
+          "country": "GR",
+          "price": 1.36,
+          "unit_price": 1.89
+        },
+        {
+          "date": "2026-09-30",
+          "country": "GR",
+          "price": 1.36,
+          "unit_price": 1.89
+        },
+        {
+          "date": "2026-10-01",
+          "country": "GR",
+          "price": 1.36,
+          "unit_price": 1.89
+        },
+        {
+          "date": "2026-10-02",
+          "country": "GR",
+          "price": 1.36,
+          "unit_price": 1.89
+        },
+        {
+          "date": "2026-10-03",
+          "country": "GR",
+          "price": 1.36,
+          "unit_price": 1.89
+        },
+        {
+          "date": "2026-10-04",
+          "country": "GR",
+          "price": 1.36,
+          "unit_price": 1.89
+        },
+        {
+          "date": "2026-10-05",
+          "country": "GR",
+          "price": 1.36,
+          "unit_price": 1.89
+        },
+        {
+          "date": "2026-10-06",
+          "country": "GR",
+          "price": 1.36,
+          "unit_price": 1.89
+        },
+        {
+          "date": "2026-10-07",
+          "country": "GR",
+          "price": 1.36,
+          "unit_price": 1.89
+        },
+        {
+          "date": "2026-10-08",
+          "country": "GR",
+          "price": 1.36,
+          "unit_price": 1.89
+        },
+        {
+          "date": "2026-10-09",
+          "country": "GR",
+          "price": 1.36,
+          "unit_price": 1.89
+        },
+        {
+          "date": "2026-10-10",
+          "country": "GR",
+          "price": 1.36,
+          "unit_price": 1.89
+        },
+        {
+          "date": "2026-10-11",
+          "country": "GR",
+          "price": 1.36,
+          "unit_price": 1.89
+        }
+      ],
+      "mymarket": [
+        {
+          "date": "2026-08-12",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-13",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-14",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-15",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-16",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-17",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-18",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-19",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-20",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-21",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-22",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-23",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-24",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-25",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-26",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-27",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-28",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-29",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-30",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-08-31",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-01",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-02",
+          "country": "GR",
+          "price": 1.45,
+          "unit_price": 2.01
+        },
+        {
+          "date": "2026-09-03",
+          "country": "GR",
+          "price": 1.45,
+          "unit_price": 2.01
+        },
+        {
+          "date": "2026-09-04",
+          "country": "GR",
+          "price": 1.45,
+          "unit_price": 2.01
+        },
+        {
+          "date": "2026-09-05",
+          "country": "GR",
+          "price": 1.45,
+          "unit_price": 2.01
+        },
+        {
+          "date": "2026-09-06",
+          "country": "GR",
+          "price": 1.45,
+          "unit_price": 2.01
+        },
+        {
+          "date": "2026-09-07",
+          "country": "GR",
+          "price": 1.45,
+          "unit_price": 2.01
+        },
+        {
+          "date": "2026-09-08",
+          "country": "GR",
+          "price": 1.45,
+          "unit_price": 2.01
+        },
+        {
+          "date": "2026-09-09",
+          "country": "GR",
+          "price": 1.45,
+          "unit_price": 2.01
+        },
+        {
+          "date": "2026-09-10",
+          "country": "GR",
+          "price": 1.45,
+          "unit_price": 2.01
+        },
+        {
+          "date": "2026-09-11",
+          "country": "GR",
+          "price": 1.45,
+          "unit_price": 2.01
+        },
+        {
+          "date": "2026-09-12",
+          "country": "GR",
+          "price": 1.45,
+          "unit_price": 2.01
+        },
+        {
+          "date": "2026-09-13",
+          "country": "GR",
+          "price": 1.45,
+          "unit_price": 2.01
+        },
+        {
+          "date": "2026-09-14",
+          "country": "GR",
+          "price": 1.45,
+          "unit_price": 2.01
+        },
+        {
+          "date": "2026-09-15",
+          "country": "GR",
+          "price": 1.45,
+          "unit_price": 2.01
+        },
+        {
+          "date": "2026-09-16",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-17",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-18",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-19",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-20",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-21",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-22",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-23",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-24",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-25",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-26",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-27",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-28",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-29",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-09-30",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-01",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-02",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-03",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-04",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-05",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-06",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-07",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-08",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-09",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-10",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        },
+        {
+          "date": "2026-10-11",
+          "country": "GR",
+          "price": 1.95,
+          "unit_price": 2.71
+        }
+      ]
+    },
+    "date_range": {
+      "start": "2026-08-12",
+      "end": "2026-10-11"
+    },
+    "available_countries": [
+      "GR"
+    ]
+  }
+}
