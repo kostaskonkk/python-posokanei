@@ -7,6 +7,8 @@ the public API; a change in the upstream API that forces one is noted as such.
 
 ## [Unreleased]
 
+## [0.1.0] - 2026-10-11
+
 ### Added
 
 - `PosoKanei` and `AsyncPosoKanei`, with `retailers`, `categories`, `products`, `iter_products`
@@ -21,4 +23,5 @@ the public API; a change in the upstream API that forces one is noted as such.
   `SchemaError`.
 - Live tests (`make live`) that hold the real API against the spec with unknown fields forbidden.
 
-[Unreleased]: https://github.com/kostaskonkk/python-posokanei/commits/main
+[Unreleased]: https://github.com/kostaskonkk/python-posokanei/compare/v0.1.0...main
+[0.1.0]: https://github.com/kostaskonkk/python-posokanei/releases/tag/v0.1.0
